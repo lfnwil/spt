@@ -1,0 +1,786 @@
+/*/general */
+body {
+    font-family: "Helvetica Neue LT Std", Helvetica, Arial, sans-serif;
+    background-color: #fff; 
+    width: 100vw; 
+    overflow-x: hidden;
+}
+
+a {
+    color: inherit; 
+    text-decoration: none;
+}
+
+select {
+    border-radius: 10px;
+    width: 90%;
+    border: 1px solid #a0a0a0;
+}
+
+input {
+    border-radius: 10px;
+    width: 95%;
+}
+
+#testcondition input, #testcondition select, #contact input, #contact select, #actualites select, #actualites input {
+    border-radius: 17px;
+}
+
+.btn {
+    background-color: #0099DC;
+    border-radius: 17px;
+}
+
+.shadow {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);  
+}
+
+.card {
+    border: 0;
+    border-radius: 20px;
+}
+
+.display-4 {
+    color: #0099DC;
+    font-weight: bold;
+}
+
+h1, .h1 {
+    color: #12408F;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: 1.125rem;
+}
+
+.text-prim {
+    color: #0099DC;
+}
+
+.text-sec {
+    color: #1D387D;
+}
+
+.text-red {
+    color: #E3004F;
+}
+
+.bg-f2 {
+    background-color: #F2F2F2;
+}
+
+.shadow {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.45); 
+}
+
+.radius-15 {
+    border-radius: 15px;
+}
+
+.radius-20 {
+    border-radius: 20px;
+}
+
+.radius-020 {
+    border-radius: 0 20px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+input[type="checkbox"],
+input[type="radio"]{
+    transform: scale(1.5);
+    border: 1px solid #C2C2C2;
+}
+
+#graphisme {
+    position: absolute;
+    z-index: -5;
+}
+
+#graphisme2 {
+    position: absolute; 
+    height: 80vh; 
+    width: auto; 
+    right: 0;
+}
+
+.custom-svg {
+    transform: translateY(-750px); /* Ajustez cette valeur selon vos besoins */
+}
+
+
+.separator-vertical {
+    width: 1px;
+    background-color: #ccc; 
+    height: 40vh;
+}
+
+.overlay-text {
+    z-index: 1;
+}
+/*/general */
+
+/* header */
+
+#header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+#logo {
+    height: 4rem;
+}
+
+.dropdown-menu {
+    position: absolute; 
+    z-index: 1050;
+    transform: translate(-136px);
+}
+
+.page-header-content {
+    position: relative;
+}
+
+/* modal menu */
+.modal-backdrop {
+    z-index: 1;
+}
+
+.modal-header span{
+    font-size: 14px;
+    color: #B6B3AD;
+    font-weight: bold;
+}
+
+.modal-body h3{
+    font-size: 30px;
+    color: #0E3083;
+    font-weight: bold;
+}
+
+.modal-body .niv1menu a {
+    font-size: 18px;
+    color: #0099DC;
+}
+
+.modal-body .toggle-icon {
+    transition: transform 0.3s ease;
+}
+
+.modal-body .accordion-header[aria-expanded="true"] .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.modal-body .niv2menu h6 {
+    font-size: 14px;
+    color: #8B8882;
+}
+
+.modal-body .niv3menu a {
+    font-size: 16px;
+    color: #0071BA;
+    font-weight: bold;
+}
+
+#verticaldivider {
+    width: 1px;
+    height: 40vh;
+    background-color: #B6B3AD;
+}
+
+/* /modal menu */
+
+/* /header */
+
+/* page header */
+
+#bandeau {
+    height: 75vh;
+   background-color: black;
+   z-index: -1;
+}
+
+#bandeau img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.75;
+}
+
+.breadcrumb-item.active {
+    color: #a0a0a0;
+    font-size: 14px;
+}
+
+/* /page header */
+
+/* footer */
+
+#ellipse {
+    width: 100%; 
+    z-index: 1; 
+    padding: 0%;
+}
+
+.navbar {
+    background-color: #E3004F;
+}
+
+#footerlogo {
+    width: 25rem;
+}
+
+#footer h2 {
+    font-size: 30px;
+}
+
+ul img {
+    width: 5rem;
+}
+
+/* footer */
+
+/* block */
+
+/* textimg */
+#textimg, #imgtext, #textimgbtn{
+    position: relative;
+}
+
+#textimg img, #imgtext img , #textimgbtn img{
+    border-radius: 0px 20px; 
+}
+#textimg #bgannee, 
+#imgtext #bgannee{
+    position: absolute;
+    z-index: -1;
+    color: #F8F8F8;
+    font-size: 18.75rem;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 6px;
+    margin: 0; 
+    padding: 0;
+}
+#textimg .display-1, #imgtext .display-1{
+    color: #0099DC;
+}
+/* textimg */
+
+/* downloadscards */
+#downloadcards { 
+    background-color: #f2f2f2;
+}
+#downloadcards .display-4{ 
+    color: #0071BA;
+}
+#downloadcards .card{ 
+    border-radius: 0px 20px; 
+    background-color: #0071BA;
+}
+#downloadcards a{ 
+    text-decoration: underline;
+    text-decoration: none;
+}
+#downloadcards .btn h6{ 
+    color: #E3004F;
+}
+#downloadcards span{ 
+   font-size: 14px;
+}
+/* downloadscards */
+
+/* Pour aller plus loin */
+#more { 
+    background-color: #f2f2f2;
+}
+#more p{ 
+    color: #E3004F;
+    z-index: 1;
+}
+#more .card-body {
+    background-color: black;
+    border-radius: 0px 20px;
+}
+#more .card-body img{
+    border-radius: 0px 20px;
+    opacity: 0.75;
+}
+/* /Pour aller plus loin */
+
+/* imgoverlay */
+#imgoverlay .background-container {
+    position: relative;
+    color: white;
+    padding: 20px;
+}
+#imgoverlay .background-filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #112D74;
+    opacity: 0.8;
+    z-index: 1;
+    border-radius: 0px 20px;
+}
+#imgoverlay .background-container img {
+   top: 0; 
+   left: 0; 
+   z-index: 0; 
+   object-fit: cover;
+   border-radius: 0px 20px;
+}
+#imgoverlay .content {
+    position: relative;
+    z-index: 2;
+}
+/* /imgoverlay */
+
+/* /block */
+
+/*templates */
+
+/*index*/
+#index #bandeau {
+    height: 100vh;
+    background-color: black;
+}
+#index #bandeau #background {
+    z-index: 2;
+    opacity: 0.75;
+}
+#index #bandeau .overlay-text {
+    z-index: 2;
+}
+#index #bandeau #infos {
+    background: rgba(14, 48, 131, 0.29);
+    backdrop-filter: blur(17.5px);
+    z-index: 2;
+    bottom: 0;
+    right: 0;
+}
+#index #bandeau #infos .container-fluid img {
+    object-fit: cover;
+    position: absolute;
+    top: -50%;
+    width: 40%;
+    border-radius: 0 20px;
+    z-index: 2;
+    opacity: 1;
+}
+#index #bandeau #infos .verticaldivider {
+    height: auto;
+    width: 2px;
+    background-color: #0099DC;
+}
+#index #imgoverlay .overlay {
+    background: rgba(10, 102, 176, 0.92);
+    border-radius: 0;
+    backdrop-filter: blur(13px); 
+}
+#index #imgoverlay #bg {
+    width: 100vw;
+    border-radius: 0;
+    object-fit: cover;
+}
+#index #imgoverlay .card {
+    background-color: transparent;
+    border: 1px solid #0099DC;
+    color: white;
+    border-radius: 0px 20px;
+}
+#index #imgoverlay .card h1 {
+    color: white;
+}
+#index #actualites h1 {
+    color: #0E3083;
+}
+#index #actualites .btn h1{
+    color: #0E3083;
+}
+#index #actualites .btn h6 {
+    color: #0099DC;
+}
+#index #actualites .card {
+    border-radius: 0 20px 0 20px;
+}
+
+#index #actualites .card .img-fluid {
+    border-radius: 0 20px 0 0;
+    object-fit: cover;
+}
+#index #actualites .card p {
+    color: #B6B3AD;
+}
+
+#index #actualites .card a, #index #actualites .card h2 {
+    color: #0E3083;
+}
+#index #activites .overlay, #index #affiliation .overlay {
+    background-color: #112D74;
+    opacity: 0.81;
+    border-radius: 0;
+}
+#index #activites #bg, #index #affiliation #bg {
+    width: 100vw;
+    border-radius: 0;
+    object-fit: cover;
+}
+#index #activites .card {
+    position: relative;
+    border-radius: 0 20px;
+    min-height: 65vh;
+    background-color: black;
+}
+#index #activites .card-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    opacity: 0.75;
+    border-radius: 0 20px;
+}
+#index #activites .card-content{
+    position: relative;
+    z-index: 1;
+    color: white;
+}
+#index #activites .card-content .btn, #index #formation .card-content .btn{
+    background-color: transparent;
+}
+#index #formation .card{
+    border-radius: 0 20px;
+}
+#index #formation .card img {
+    position: relative;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0 20px;
+    opacity: 0.65;
+}
+#index #formation .card-content {
+    position: absolute;
+}
+#index #partenaires .card {
+    background-color: #F8F8F8;
+}
+/* card comité */
+
+
+/* /card comité */
+/*/index*/
+/* histoire */
+#histoire #page-header .btn {
+    background-color: transparent;
+    color: #8B8882;
+    border: solid 1px #B6B3AD;
+    font-size: 20px;
+}
+/* histoire */
+
+/* Comité */
+#comite h4 {
+    color: #0099DC;
+    font-weight: bold;
+}
+#comite .card {
+    background-color: #f2f2f2;
+}
+#comite select {
+    font-weight: bold;
+    border: none;
+}
+#typecomite p{
+    font-size: 14px;
+    color: #B6B3AD;
+    font-weight: bold;
+}
+#comite #btnsite{
+    background-color: #0764AE;
+}
+#comite #btncontact{
+    background-color: #0099DC;
+}
+/* /Comité */
+
+/* status et reglements */
+#statutsetreglements #downloadcards .card {
+    background-color: #F2F2F2;
+}
+#statutsetreglements #downloadcards .card h6 {
+    color: #0764AE;
+    font-size: 18px;
+}
+#statutsetreglements #downloadcards .card .btn {
+    background-color: #E3004F;
+}
+#statutsetreglements #downloadcards a{
+   text-decoration: none;
+}
+/* status et reglements */
+
+/* centre */
+#centre #sliderbackground {
+    background-image: url('/img/DeM-marche13\ 1.png'); 
+    background-size: cover; 
+    height: 75vh;
+}
+#centre #carouselExampleFade .card {
+    border-radius: 0px 20px;
+}
+#centre #footer {
+    background-color: #f2f2f2;
+}
+/* centre */
+
+/* Demande d'affilliation */
+#formaffiliation h1 {
+    color: #12408F;
+}
+#formaffiliation label {
+    color: #0099DC;
+    margin-bottom: 10px;
+}
+#formaffiliation input[type="text"],
+#formaffiliation input[type="email"],
+#formaffiliation input[type="date"],
+#formaffiliation input[type="url"] {
+    border: 2px solid #C2C2C2;
+}
+#formaffiliation #Activités_sportives_de_la_Structure a {
+    cursor: pointer;
+}
+#formaffiliation select {
+    border: none;
+    background-color: #F2F2F2;
+    font-weight: 700;
+    width: 90%;
+}
+#Animateurprincipal h3 {
+    font-weight: bold;
+    color: #12408F;
+}
+/* /Demande d'affilliation */
+
+/* Activités et sports loisirs */
+#activites #btnlettre button {
+    background-color: #F2F2F2;
+    border-radius: 10px;
+}
+#activites #grid .card {
+    border-radius: 0px 20px;
+    background-color: black;
+}
+#activites #grid .card-img {
+    border-radius: 0px 20px;
+    opacity: 0.75;
+}
+#activites #grid .card h1{
+    color: white;
+}
+#activites .circle-container {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    left: -40px;
+}
+/* /Activités et sports loisirs */
+
+/* test activité */
+#testactivite .card{
+    background-color: #F2F2F2;
+}
+#testactivite .card label{
+    font-size: 1rem;
+    color: #0E3083;
+    margin: 0.5rem;
+}
+#testactivite .card {
+    transition: opacity 0.3s ease;
+}
+#testactivite .card .collapse:not(.show) {
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+}
+#testactivite input{
+    transform: scale(1.5);
+}
+/*/test activité*/
+
+/* trouver un club */
+#trouverunclub .card{
+    background-color: #F2F2F2;
+    border-radius: 20px;
+}
+#rechercheavancee h5 {
+    color: #1D387D;
+    font-size: 20px;
+    font-weight: 700;
+}
+#rechercheavancee select {
+    border: 1px solid #ccc;
+    border-radius: 17px;
+}
+#rechercheavancee input {
+    border-radius: 17px;
+}
+#rechercheavancee label {
+    color: #1D387D;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* /trouver un club */
+
+/* condition physique */
+#testcondition #consignes .card {
+    background-color: #0099DC;
+    border-radius: 0px 20px;
+}
+#testcondition #consignes li {
+    margin-bottom: 5px;
+}
+#testcondition #chrono .card {
+    background-color: #F2F2F2;
+    color: #0E3083;
+}
+/* condition physique */
+
+/* pass hebdo */
+#passhebdo #recupconfirmation {
+    font-size: 14px;
+    background-color: #F2F2F2;
+}
+#recupconfirmation a {
+    color: #0099DC;
+    text-decoration: underline;
+}
+#passtabs .nav-link {
+    color: #B6B3AD;
+    font-size: 30px; 
+}
+#passtabs .nav-link.active {
+    color: #0099DC;
+} 
+#contentpasstabs p {
+    color: #B6B3AD;
+}
+/* /pass hebdo */
+
+/* CQP */
+#CQP #imgoverlay .overlay {
+    background: rgba(10, 102, 176, 0.92);
+    border-radius: 0;
+   
+}
+#CQP #imgoverlay #bg {
+    width: 100vw;
+    border-radius: 0;
+    object-fit: cover;
+}
+#CQP #imgoverlay .card {
+    background-color: transparent;
+    border: 1px solid #0099DC;
+    color: white;
+    border-radius: 0px 20px;
+}
+#CQP #imgoverlay .card h1 {
+    color: white;
+}
+/* CQP */
+
+/* road tour */
+#roadtour svg {
+    position: absolute;
+    z-index: -1;
+}
+#roadtour #roadbook {
+    background-color: #f2f2f2;
+    border-radius: 0 20px;
+}
+#roadtour #roadbook p{
+    color: #f2f2f2;
+    font-size: 12.5rem;
+    font-weight: 700;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #0099DC;
+}
+@media (max-width: 768px) {
+    #roadtour #roadbook p {
+        font-size: 6.25rem;
+    }
+}
+/* road tour */
+
+/* contact */
+#contact hr {
+    color: #0099DC;
+    width: 80px;
+}
+#contact .champs {
+    color: #8B8882;
+    font-weight: 500;
+    font-style: italic;
+}
+/* contact */
+
+/* aide */
+#aidecreation .text-container {
+    position: relative;
+}
+#aidecreation .circle {
+    position: absolute;
+    top: -2rem;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cardaide .text-container {
+    background-color: #0099DC;
+    color: white;
+}
+/* /aide */
+
+/* diabete */
+#diabete #imgoverlay .overlay {
+    background: rgba(10, 102, 176, 0.92);
+    border-radius: 0;
+}
+#diabete #imgoverlay #bg {
+    width: 100vw;
+    border-radius: 0;
+    object-fit: cover;
+}
+#diabete #imgoverlay .card {
+    background-color: transparent;
+    border: 1px solid #0099DC;
+    color: white;
+    border-radius: 0px 20px;
+}
+#diabete #imgoverlay .card h1 {
+    color: white;
+}
+#diabete #imgoverlay span{
+color: #FFF;
+font-size: 16px;
+font-style: italic;
+opacity: 0.59;
+}
+/* diabete */

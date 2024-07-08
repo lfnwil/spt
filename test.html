@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Test</title>
+  
+    <!-- Global stylesheets -->	
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" href="test.css">
+    </head>
+  <body>
+    <div class="container p-5 col-lg-4">
+        <button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
+        
+        <div class="image-demo-slider">
+            <div class="img-wrapper">
+                <img src="img/AdobeStock_318547767 1.jpg" alt="" class="img-fluid">
+            </div>
+            <div class="img-wrapper">
+                <img src="img/AdobeStock_159472423 1.jpg" alt="" class="img-fluid">
+            </div>
+        </div>
+        <button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button>
+        
+    </div>
+
+  
+    <script type="text/javascript" src="jquery-3.x-git.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        $('.image-demo-slider').slick({
+            arrows : false,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            cssEase: 'linear',
+            autoplay: true,
+            autoplaySpeed: 2000,
+        });
+    }
+( jQuery ) );
+    </script>
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
