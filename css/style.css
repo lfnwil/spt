@@ -601,7 +601,9 @@ ul img {
     border-radius: 50%;
     overflow: hidden;
     position: absolute;
-    left: -40px;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 /* /Activités et sports loisirs */
 
