@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
- <!-- Content area -->
- <div class="content p-0" id="actualites">
+<!-- Content area -->
+<div class="content p-0" id="actualites">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
             <img src="../img/sport-activite-nature-lozere-velo-tout-terrain-13-1200x900 1.jpg" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
@@ -135,42 +135,6 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
-                        <h6 class="text-prim my-4">VIE FEDERAL</h6>
-                        <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
-                        <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
-                        <p class="breadcrumb-item active small fw-bold">Vendredi 3 mai 2024</p>
-                        <a class="btn col-6 py-3 text-white shadow my-4" style="background-color: #0099DC">
-                            <span class="fw-bold text-center">Lire la suite</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
-                        <h6 class="text-prim my-4">VIE FEDERAL</h6>
-                        <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
-                        <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
-                        <p class="breadcrumb-item active small fw-bold">Vendredi 3 mai 2024</p>
-                        <a class="btn col-6 py-3 text-white shadow my-4" style="background-color: #0099DC">
-                            <span class="fw-bold text-center">Lire la suite</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
-                        <h6 class="text-prim my-4">VIE FEDERAL</h6>
-                        <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
-                        <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
-                        <p class="breadcrumb-item active small fw-bold">Vendredi 3 mai 2024</p>
-                        <a class="btn col-6 py-3 text-white shadow my-4" style="background-color: #0099DC">
-                            <span class="fw-bold text-center">Lire la suite</span>
-                        </a>
-                    </div>
-                </div>
             </div>
 
             <nav aria-label="Page navigation example">
@@ -190,9 +154,10 @@
     </div>
 </div>
 <!-- /Content area -->
+ 
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+        <img src="../img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

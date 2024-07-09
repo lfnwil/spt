@@ -764,6 +764,9 @@ ul img {
     align-items: center;
     justify-content: center;
 }
+#aidecreation select {
+    border-radius: 17px;
+}
 #cardaide .text-container {
     background-color: #0099DC;
     color: white;

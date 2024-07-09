@@ -4,7 +4,7 @@
 <div class="content p-0" id="aidecreation">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center mb-5">
-            <img src="../../img/AdobeStock_305465055.png" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
+            <img src="../../img/AdobeStock_305465055 2.jpg" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Aide pour créer votre association</p>
             </div>
@@ -19,9 +19,9 @@
             <p class="display-4">Aide pour créer votre association</p>
         </div>
     </div>                     
-    <div id="textimg" class="d-flex justify-content-center p-xl-5">
-        <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
-            <div class="col-lg-6 flex-column p-3">
+    <div id="textimg" class="d-flex justify-content-center p-xxl-5">
+        <div class="row d-flex justify-content-between align-items-center col-lg-10 container-fluid">
+            <div class="col-sm-6 flex-column p-3">
                 <div class="rounded-pill d-flex justify-content-center align-items-center text-white " style="height: 78px; width: 78px; background-color: #0099DC;"><h3 class="fw-bold m-0">1</h3></div>
                 <div class="py-lg-5">
                     <p class="display-4 fw-bold">Rédiger des statuts</p>
@@ -29,26 +29,26 @@
                     <h6 class="my-4">La rédaction de ces statuts comporte l'objet et le titre de l'association, le lieu du siège social, l'identité des administrateurs, les modalités pratiques de son action, les conditions d'adhésion et de radiation des membres, l'organisation et les ressources de l'association, les modalités de modification et de dissolution.</h6>
                     <h6 class="my-4">Vous avez la possibilité d'obtenir nos statuts types auprès de votre Comité Départemental Sports pour Tous (excepté les associations des départements du Bas-Rhin, du Haut-Rhin et de la Moselle dont les statuts dépendent du droit local de Strasbourg).</h6>
                 </div>
-                <a class="btn col-lg-9 py-3 text-white shadow" style="background-color: #E3004F;">
-                    <img src="../img/Vector(14).png" class="me-3" alt="">
+                <a class="btn col-lg-9 py-3 text-white shadow d-flex align-items-center justify-content-around" style="background-color: #E3004F;">
+                    <img src="../img/Vector(14).png" class="me-3 rounded-0" alt="">
                     <span class="fw-bold text-center">Présentation de la Fédération Française Sport pour Tous</span>
                 </a>
             </div>
-            <div class="col-lg-6 d-flex justify-content-center p-3">
-                <div class="rounded">
-                    <img src="../img/AdobeStock_305465055 1.jpg" alt="" class="img-fluid rounded">
+            <div class="col-sm-6 d-flex justify-content-center p-3">
+                <div class="">
+                    <img src="../img/AdobeStock_305465055 1.jpg" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
     </div>                
-    <div id="imgtext" class="d-flex justify-content-center p-xl-5">
-        <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
-            <div class="col-lg-6 d-flex justify-content-center p-3">
-                <div class="rounded">
-                    <img src="../img/PHOTO.png" alt="" class="img-fluid rounded">
+    <div id="imgtext" class="d-flex justify-content-center p-xxl-5">
+        <div class="row d-flex justify-content-between align-items-center col-lg-10 container-fluid">
+            <div class="col-sm-6 d-flex justify-content-center p-3">
+                <div class="">
+                    <img src="../img/AdobeStock_486309196 1.jpg" alt="" class="img-fluid">
                 </div>
             </div>
-            <div class="col-lg-6 flex-column p-3">
+            <div class="col-sm-6 flex-column p-3">
                 <div class="rounded-pill d-flex justify-content-center justify-self-end align-items-center text-white " style="height: 78px; width: 78px; background-color: #0099DC;"><h3 class="fw-bold m-0">2</h3></div>
                 <div class="py-lg-5">
                     <p class="display-4 fw-bold">Organiser une Assemblée Générale constitutive</p>
@@ -59,9 +59,9 @@
             
         </div>
     </div>
-    <div id="textimg" class="d-flex justify-content-center p-xl-5">
-        <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
-            <div class="col-lg-6 flex-column p-3">
+    <div id="textimg" class="d-flex justify-content-center p-xxl-5">
+        <div class="row d-flex justify-content-between align-items-center col-lg-10 container-fluid">
+            <div class="col-sm-6 flex-column p-3">
                 <div class="rounded-pill d-flex justify-content-center justify-self-end align-items-center text-white " style="height: 78px; width: 78px; background-color: #0099DC;"><h3 class="fw-bold m-0">3</h3></div>
                 <div class="py-lg-5">
                     <p class="display-4">Déclarer l'association en Préfecture</p>
@@ -80,9 +80,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 d-flex justify-content-center p-3">
-                <div class="rounded">
-                    <img src="../img/PHOTO3.png" alt="" class="img-fluid rounded">
+            <div class="col-sm-6 d-flex justify-content-center p-3">
+                <div class="">
+                    <img src="../img/PHOTO3.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -97,7 +97,7 @@
     </div>
     <div class="container my-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center py-5">
-            <img src="../img/AdobeStock_318547767 1.png" alt="Background Image" class="img-fluid w-100 h-100 position-absolute">
+            <img src="../img/AdobeStock_318547767 1.jpg" alt="Background Image" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>
             <div class="content col-9 py-5 text-center d-flex flex-column align-items-center">
                 <p class="display-4 text-white">Retrouvez les coordonnées de votre Comité Départemental</p>
@@ -105,7 +105,7 @@
                     <h6 class="my-4">Votre interlocuteur privilégié : le Comité Départemental Sports pour Tous.Organe déconcentré de la Fédération, le Comité est chargé de la gestion administrative des Clubs et de leur développement.</h6>
                     <h6 class="my-4">Nous vous invitons à prendre contact avec lui pour connaitre les tarifs des licences et de l'affiliation (tarif fédéral + cotisation départementale + cotisation régionale)</h6>
                 </div>
-                <select name="" id="" class="bg-white p-3 text-prim fw-bold text-center col-6">
+                <select name="" id="" class="bg-white p-3 text-prim fw-bold text-center col-lg-4 col-sm-9 col-12">
                     <option value="">Comité Départemental</option>
                     <option value="">Comité Gironde</option>
                 </select>
@@ -163,6 +163,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0" style="background-color: #F2F2F2;">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+        <img src="../img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>
