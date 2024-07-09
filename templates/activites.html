@@ -15,74 +15,267 @@
 		<div class="content-wrapper">
 			<!-- Inner content -->
 			<div class="content-inner">
-				<!-- Page header -->
-                <div id="header" class="page-header col-md-12">
-                    <div class="page-header-content d-md-flex justify-content-between align-items-center text-center p-lg-5 container-fluid">
+
+				 <!-- Page header -->
+                 <div id="header" class="page-header col-md-12">
+                    <div class="page-header-content d-flex justify-content-sm-between justify-content-around align-items-center text-center p-5 container-fluid flex-wrap">
                         <div class="d-flex">
                             <div class="navbar-brand flex-1 flex-md-0">
                                 <a href="../projet_federal.php" class="d-inline-flex align-items-center">
-                                    <img src="../img/logo.png" id="logo" alt="">
+                                    <img src="../img/logo.png" id="logo">
                                 </a>
                             </div>
                         </div>
                         <div class="d-lg-inline-none collapse d-lg-block ms-lg-auto mx-5">
                             <div class="btn-group d-flex flex-wrap align-items-center">
-                                <div class="btn-group dropstart">
-                                    <button type="button" class="btn text-white mx-2" data-bs-toggle="dropdown">
-                                        <img src="../img/loupe.png" alt="">
+                                <div class="btn-group dropstart d-flex align-items-center">
+                                    <button type="button" class="btn bg-transparent border-0 text-white mx-2" data-bs-toggle="dropdown">
+                                        <img src="../img/loupe.png">
                                     </button>
-                                    <div class="dropdown-menu dropdown-menu-end" data-popper-placement="left-start">
-                                        <a href="#" class="dropdown-item">
-                                            <div class="navbar-search flex-fill position-relative">
-                                                <div class="form-control-feedback form-control-feedback-start d-flex align-items-center">
-                                                    <input type="text" class="form-control bg-transparent me-2" placeholder="Search">
-                                                    <div class="form-control-feedback-icon">
-                                                        <i class="ph-magnifying-glass"></i>
+                                    <div class="dropdown-menu dropdown-menu-center bg-transparent border-0" data-popper-placement="left-start">
+                                        <div class="form-control-feedback form-control-feedback-start d-flex align-items-center">
+                                            <input type="text" class="form-control bg-white" placeholder="Search">
+                                            <div class="form-control-feedback-icon">
+                                                <i class="ph-magnifying-glass"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="../img/france.png" class="mx-auto mb-2">
+                                    <span class="small col-lg-8 text-white fw-bold">Trouver un club</span>
+                                </a>
+                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="../img/Group 41.png" class="mx-auto mb-2">
+                                    <span class="small text-white fw-bold">Extranet</span>
+                                </a>
+                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="../img/Group 42.png" class="mx-auto mb-2">
+                                    <span class="small col-lg-8 text-white fw-bold">Espace licencié</span>
+                                </a>
+                            </div>
+                        </div>
+                        <button  type="button" class="px-3 py-1 bg-white border-0 d-flex align-items-center justify-content-center text-body radius-15" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <div class="d-flex align-items-center">
+                                <p class="fw-semibold m-2" style="color: #0E3083;">Menu</p>
+                                <img src="../img/burger icon(1).png" class="ms-3">
+                            </div>
+                        </button>
+                        
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"  data-bs-backdrop="true">
+                            <div class="modal-dialog modal-fullscreen py-5 px-md-3">
+                                <div class="modal-content bg-transparent container-fluid">
+                                    <div class="bg-white radius-20 px-xxl-5 pb-5 container-fluid">
+                                        <div class="modal-header d-flex justify-content-end border-0 p-3">
+                                            <a class="btn bg-transparent border-0 my-3" data-bs-dismiss="modal">
+                                                <span class="mx-2">Fermer le menu</span>
+                                                <img src="../img/redcross.png">
+                                            </a>
+                                        </div>
+                                        <div class="modal-body d-flex flex-wrap p-0 justify-content-around align-items-center container-fluid">
+                                            <div class="d-sm-flex container-fluid col-xl-5 col-md-12 p-0 m-0 justify-content-around align-items-center">
+                                                <div class="text-sm-start flex-column d-flex p-0 justify-content-between align-items-center">
+                                                    <div class="">
+                                                        <a href="../"><h3>La fédération</h3></a>
+                                                        <ul class="niv1menu list-unstyled my-3 ms-xl-4">
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseQuisommesnous" aria-expanded="false" aria-controls="collapseQuisommesnous">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i> Qui sommes nous ?
+                                                                </a>
+                                                                <ul id="collapseQuisommesnous" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Qui sommes nous ?</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseMissions" aria-expanded="false" aria-controls="collapseMissions">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i> Nos missions
+                                                                </a>
+                                                                <ul id="collapseMissions" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Santé</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseOrganisation" aria-expanded="false" aria-controls="collapseOrganisation">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i> Organisation
+                                                                </a>
+                                                                <ul id="collapseOrganisation" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Organisation</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Projet fédéral</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="">
+                                                        <a href="../demande_affiliation.php"><h3>Affilier son club</h3></a>
+                                                        <ul class="niv1menu list-unstyled my-3 ms-xl-4">
+                                                            <li>
+                                                                <a href="../projet_federal.php">Pourquoi nous rejoindre ?</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Comment nous rejoindre ?</a>
+                                                            </li>
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseServices" aria-expanded="false" aria-controls="collapseServices">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i>Nos services ?
+                                                                </a>
+                                                                <ul id="collapseServices" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Santé</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div id="verticaldivider" class="d-none d-xxl-block mx-5"></div>
+                                                <div class="text-sm-start flex-column p-0 justify-content-between align-items-center">
+                                                    <div class="">
+                                                        <a href="../"><h3>Pratiquer</h3></a>
+                                                        <ul class="niv1menu list-unstyled my-3 ms-xl-4 mx-4">
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseActivites" aria-expanded="false" aria-controls="collapseActivites">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i>Nos activités
+                                                                </a>
+                                                                <ul id="collapseActivites" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../activites.php"><h6>Liste des activités</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../test_activite.php">Quelle activité est faite pour vous ?</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../trouveruncblub.php">Trouver un club</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../test_forme.php">Testez votre forme</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">L’offre d’adhésion</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">La licence Sport Pour Tous</a>
+                                                            </li>
+                                                            <li class="accordion-item">
+                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapsePASS" aria-expanded="false" aria-controls="collapsePASS">
+                                                                    <i class="me-2 fas fa-chevron-down toggle-icon"></i>Les PASS
+                                                                </a>
+                                                                <ul id="collapsePASS" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
+                                                                    <li><a class="dropdown-item my-2" href="../passhebdo.php"><h6>Acheter un PASS</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                </ul>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="">
+                                                        <a href="../"><h3>Evènements</h3></a>
+                                                        <ul class="niv1menu list-unstyled my-3 ms-xl-4">
+                                                            <li>
+                                                                <a href="../projet_federal.php">Road Tour Sports pour Tous</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Semaine de la Forme</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Paris 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Téléthon</a>
+                                                            </li>
+                                                        </ul>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <button type="button" class="btn d-flex flex-column text-white mx-2 justify-content-center">
-                                    <img src="../img/Vector.png" alt="" class="mx-auto mb-2">
-                                    <span class="small"><strong>Trouver <br> un club</strong></span>
-                                </button>
-                                <button type="button" class="btn d-flex flex-column text-white mx-2 justify-content-center">
-                                    <img src="../img/Group 41.jpg" alt="" class="mx-auto mb-2">
-                                    <span class="small"><strong>Extranet</strong></span>
-                                </button>
-                                <button type="button" class="btn d-flex flex-column text-white mx-2 justify-content-center">
-                                    <img src="../img/Group 42.jpg" alt="" class="mx-auto mb-2">
-                                    <span class="small"><strong>Espace <br> licencié</strong></span>
-                                </button>
-                            </div>
-                        </div>
-                        <div id="dropdown">
-                            <div class="align-items-center mb-3">
-                                <div class="dropdown w-100 w-md-auto">
-                                    <a href="#" class="btn btn-lg bg-white d-flex align-items-center justify-content-center text-body" data-bs-toggle="dropdown">
-                                        <div class="d-flex align-items-center">
-                                            <p class="fw-semibold m-2" style="color: #0E3083;">Menu</p>
-                                            <img src="../img/burger icon(1).png" class="ms-3" alt="">
+                                            <div id="verticaldivider" class="d-none d-xxl-block mx-5"></div>
+                                            <div class="d-sm-flex container-fluid col-xl-5 col-md-12 p-0 m-0 justify-content-around align-items-center">
+                                                <div class="text-sm-start flex-column p-0 justify-content-between align-items-center">
+                                                    <div class="">
+                                                        <a href="../"><h3>Se former</h3></a>
+                                                        <ul class="niv1menu list-unstyled my-3 ms-xl-4"> 
+                                                            <li>
+                                                                <a href="../trouver_une_formation.php">Nos formations</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../trouveruneformation.php">Trouver une formation</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../CQP.php">CQP Animateur de Loisir Sportif</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">BP JPES Activités Physiques pour Tous</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Activités Physiques Sur Prescriptions Médicale</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Encadrant bénévole</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Formations Professionnelles Continues</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Métiers du développement</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Animateur de Loisir Sportif</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">Métiers de la formation</a>
+                                                            </li>
+                                                            
+                                                        </ul>
+                                                    </div>
+                                                    <div class="col-lg-10">
+                                                        <a href="../"><h3>Sports pour Tous le Mag Contact</h3></a>
+                                                    </div>
+                                                </div>
+                                                <div id="verticaldivider" class="d-none d-xxl-block mx-3"></div>
+                                                <div class="text-sm-end flex-column d-flex p-0 justify-content-between align-items-sm-end">
+                                                    <div class="">
+                                                        <ul class="niv3menu list-unstyled my-3"> 
+                                                            <li>
+                                                                <a href="../projet_federal.php">Vidéothèque</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../trouveruneformation.php">Espace presse</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">FAQ</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../projet_federal.php">FAQ Sites Structures</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="">
+                                                        <ul class="niv2menu list-unstyled my-3">
+                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Mentions légales</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Plan du site</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Signalements</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Nos partenaires</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Actualités</h6></a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </a>
-                                    <div class="dropdown-menu dropdown-menu-md-end w-100 w-md-auto wmin-300 wmin-sm-350 pt-0" data-bs-popper="static">
-                                        <div class="d-flex align-items-center p-3">
-                                            <h6 class="fw-semibold mb-0">Menu</h6>
-                                        </div>
-                                        <a href="#" class="dropdown-item py-2">Action</a>
-                                        <a href="#" class="dropdown-item py-2">Another action</a>
-                                        <a href="#" class="dropdown-item py-2">One more action</a>
-                                        <div class="dropdown-divider"></div>
-                                        <a href="#" class="dropdown-item py-2">Separated line</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-				<!-- /page header -->
+                <!-- /page header -->
 
 				<!-- Content area -->
                 <div class="content p-0" id="activites">
@@ -102,7 +295,7 @@
                             <p class="display-4 fw-bold text-center">Nos activités physique et sports loisirs</p>
                         </div>
                     </div>
-                    <div id="container" class="d-flex justify-content-center col-md-12 my-3 my-md-0 container-fluid">
+                    <div id="choix" class="d-flex justify-content-center col-md-12 my-3 my-md-0 container-fluid">
                         <div class="col-md-9">
                             <div class="row d-flex justify-content-between">
                                 <div class="col-md-6 flex-column justify-content-center my-3">
@@ -110,104 +303,100 @@
                                         Pourquoi voulez-vous pratiquer une activité sportive ?
                                         <img src="../img/arrowdown.png" alt="">
                                     </a>
-                                    <div class="collapse multi-collapse bg-light" id="multiCollapseExample1">
-                                        <div class="p-3 bg-light">
-                                            <div class="row d-flex align-items-center my-2">
-                                                <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                    <div class="form-check d-flex align-items-center">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">S'entretenir</label>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-5 mb-2">
-                                                    <div class="form-check">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">Se défouler</label>
-                                                    </div>
+                                    <div class="collapse multi-collapse bg-light p-3" id="multiCollapseExample1">
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">S'entretenir</label>
                                                 </div>
                                             </div>
-                                            <div class="row d-flex align-items-center my-2">
-                                                <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                    <div class="form-check d-flex align-items-center">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">Se relaxer</label>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                    <div class="form-check d-flex align-items-center">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">Jouer</label>
-                                                    </div>
+                                            <div class="col-lg-5 mb-2">
+                                                <div class="form-check">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Se défouler</label>
                                                 </div>
                                             </div>
-                                            <div class="row d-flex align-items-center my-2">
-                                                <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                    <div class="form-check d-flex align-items-center">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">Explorer</label>
-                                                    </div>
+                                        </div>
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Se relaxer</label>
                                                 </div>
-                                                <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                    <div class="form-check d-flex align-items-center">
-                                                        <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                        <label class="form-check-label m-0">S'exprimer</label>
-                                                    </div>
+                                            </div>
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Jouer</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Explorer</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">S'exprimer</label>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6 flex-column justify-content-center my-3 ">
-                                    <button class="btn w-100 bg-light d-flex justify-content-between align-items-center p-3 fw-bold" style="color: #0099DC;" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">
+                                    <a class="btn w-100 bg-light d-flex justify-content-between align-items-center p-3 fw-bold" style="color: #0099DC;" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">
                                         Quelle type d’activité vous intéresse ?
                                         <img src="../img/arrowdown.png" alt="">
-                                    </button>
-                                    <div class="collapse multi-collapse bg-light" id="multiCollapseExample2">
-                                            <div class="p-3 bg-light">
-                                                <div class="row d-flex align-items-center my-2">
-                                                    <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                        <div class="form-check d-flex align-items-center">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Activités aquatiques</label>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-5 mb-2">
-                                                        <div class="form-check">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Arts énergétiques</label>
-                                                        </div>
-                                                    </div>
+                                    </a>
+                                    <div class="collapse multi-collapse bg-light p-3" id="multiCollapseExample2">
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Activités aquatiques</label>
                                                 </div>
-                                                <div class="row d-flex align-items-center my-2">
-                                                    <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                        <div class="form-check d-flex align-items-center">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Activités gymniques d'entretien et d'expression</label>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                        <div class="form-check d-flex align-items-center">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Jeux sportifs</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="row d-flex align-items-center my-2">
-                                                    <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                        <div class="form-check d-flex align-items-center">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Pleine nature</label>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-5 mb-2 d-flex align-items-center">
-                                                        <div class="form-check d-flex align-items-center">
-                                                            <input class="form-check-input me-4" type="checkbox" id="public1">
-                                                            <label class="form-check-label m-0">Jeux d'opposition</label>
-                                                        </div>
-                                                    </div>
+                                            </div>
+                                            <div class="col-lg-5 mb-2">
+                                                <div class="form-check">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Arts énergétiques</label>
                                                 </div>
                                             </div>
                                         </div>
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Activités gymniques d'entretien et d'expression</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Jeux sportifs</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row d-flex align-items-center my-2">
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Pleine nature</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-5 mb-2 d-flex align-items-center">
+                                                <div class="form-check d-flex align-items-center">
+                                                    <input class="form-check-input me-4" type="checkbox" id="public1">
+                                                    <label class="form-check-label m-0">Jeux d'opposition</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -385,13 +574,13 @@
                                         Marche Nordique, Basket fauteuil, Danse, Qi gong, Randonnée, Gym santé…
                                     </h6>
                                 </div>
-                                <button class="btn bg-white shadow py-3 ps-5 ms-5 d-flex align-items-center position-relative">
+                                <button class="btn bg-white shadow p-4 position-relative shadow mt-3">
                                     <div class="circle-container d-flex justify-content-center align-items-center">
-                                        <img src="../img/Group 44.png" alt="" class="">
+                                        <img src="../img/Group 44.png" class="">
                                     </div>
-                                    <div class="col">
-                                        <h1 class="mb-1 text-start" style="color: #0E3083;">FAITES LE TEST</h1> 
-                                        <h6 class="mb-0 text-start fw-bold" style="color: #0099DC;">et découvrez l'activité qui est faite pour vous</h6> 
+                                    <div class="col text-center mt-3">
+                                        <h1 class="mb-1">FAITES LE TEST !</h1>
+                                        <h6 class="mb-0 text-prim">et découvrez l'activité qui est faite pour vous</h6>
                                     </div>
                                 </button>
                             </div>
@@ -408,15 +597,15 @@
                             <div class="container-fluid flex-column px-xl-5">
                                 <div class="row container-fluid d-flex justify-content-around col-md-12">
                                     <div class="d-flex col-lg-4 justify-content-center align-items-center py-3">
-                                        <img src="../img/logo.png" alt="" id="footerlogo">
+                                        <img src="../img/logo.png" id="footerlogo">
                                     </div>
                                     <div class="d-flex flex-column col-lg-4 text-center justify-content-center align-items-center py-3">
                                         <ul class="list-unstyled fw-bold">
-                                            <li class="mb-2"><a href="#" class="text-white">FAQ</a></li>
-                                            <li class="mb-2"><a href="#" class="text-white">Espace Presse</a></li>
-                                            <li class="mb-2"><a href="#" class="text-white">Contacts</a></li>
-                                            <li class="mb-2"><a href="#" class="text-white">Coordonnées Comités</a></li>
-                                            <li class="mb-2"><a href="#" class="text-white">Signalement</a></li>
+                                            <li class="mb-2"><a href="../#" class="text-white">FAQ</a></li>
+                                            <li class="mb-2"><a href="../#" class="text-white">Espace Presse</a></li>
+                                            <li class="mb-2"><a href="../#" class="text-white">Contacts</a></li>
+                                            <li class="mb-2"><a href="../#" class="text-white">Coordonnées Comités</a></li>
+                                            <li class="mb-2"><a href="../#" class="text-white">Signalement</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-4 py-3 d-flex justify-content-center">
@@ -425,25 +614,25 @@
                                             <ul class="list-unstyled d-flex flex-wrap justify-content-center">
                                                 <div class="d-flex" >
                                                     <li class="m-2">
-                                                        <a href="#">
-                                                            <img src="../img/facebook.png" alt="Icon 1">
+                                                        <a href="../#">
+                                                            <img src="../img/facebook.png">
                                                         </a>
                                                     </li>
                                                     <li class="m-2">
-                                                        <a href="#">
-                                                            <img src="../img/instagram.png" alt="Icon 2">
+                                                        <a href="../#">
+                                                            <img src="../img/instagram.png">
                                                         </a>
                                                     </li>
                                                 </div>
                                                 <div class="d-flex">
                                                     <li class="m-2">
-                                                        <a href="#">
-                                                            <img src="../img/linkedin.png" alt="Icon 3">
+                                                        <a href="../#">
+                                                            <img src="../img/linkedin.png">
                                                         </a>
                                                     </li>
                                                     <li class="m-2">
-                                                        <a href="#">
-                                                            <img src="../img/ytb.png" alt="Icon 4">
+                                                        <a href="../#">
+                                                            <img src="../img/ytb.png">
                                                         </a>
                                                     </li>
                                                 </div>
@@ -458,12 +647,14 @@
                     </div> 
                 </div> 
                 <!-- Footer -->
+
             </div>
-			<!-- /inner content -->
-		</div>
-		<!-- /main content -->
-	</div>
-	<!-- /page content -->
+            <!-- /inner content -->
+        </div>
+        <!-- /main content -->
+    </div>
+    <!-- /page content -->
+      
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
