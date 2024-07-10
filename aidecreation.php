@@ -1,10 +1,10 @@
 <?php include 'header.php'; ?>
 
-<!-- Content area -->
-<div class="content p-0" id="aidecreation">
+ <!-- Content area -->
+ <div class="content p-0" id="aidecreation">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center mb-5">
-            <img src="../../img/AdobeStock_305465055 2.jpg" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
+            <img src="../../img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Aide pour créer votre association</p>
             </div>
@@ -30,13 +30,13 @@
                     <h6 class="my-4">Vous avez la possibilité d'obtenir nos statuts types auprès de votre Comité Départemental Sports pour Tous (excepté les associations des départements du Bas-Rhin, du Haut-Rhin et de la Moselle dont les statuts dépendent du droit local de Strasbourg).</h6>
                 </div>
                 <a class="btn col-lg-9 py-3 text-white shadow d-flex align-items-center justify-content-around" style="background-color: #E3004F;">
-                    <img src="../img/Vector(14).png" class="me-3 rounded-0" alt="">
+                    <img src="../img/Vector(14).png" class="me-3 rounded-0">
                     <span class="fw-bold text-center">Présentation de la Fédération Française Sport pour Tous</span>
                 </a>
             </div>
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/AdobeStock_305465055 1.jpg" alt="" class="img-fluid">
+                    <img src="../img/AdobeStock_305465055 1.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
         <div class="row d-flex justify-content-between align-items-center col-lg-10 container-fluid">
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/AdobeStock_486309196 1.jpg" alt="" class="img-fluid">
+                    <img src="../img/AdobeStock_486309196 1.jpg" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-6 flex-column p-3">
@@ -82,13 +82,13 @@
             </div>
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/PHOTO3.png" alt="" class="img-fluid">
+                    <img src="../img/PHOTO3.png" class="img-fluid">
                 </div>
             </div>
         </div>
     </div>
     <div style="background-color: #E3004F;" class="d-flex flex-column align-items-center py-5 text-white text-center container-fluid">
-        <img src="../img/info.png" alt="" class="my-4">
+        <img src="../img/info.png" class="my-4">
         <h4>La prise de licence est obligatoire pour tous les adhérents de l'Association</h4>
         <h4 class="my-4">CONTACT</h4>
         <h4>Service Licences & Affiliations</h4>
@@ -97,7 +97,7 @@
     </div>
     <div class="container my-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center py-5">
-            <img src="../img/AdobeStock_318547767 1.jpg" alt="Background Image" class="img-fluid w-100 h-100 position-absolute">
+            <img src="../img/AdobeStock_318547767 1.jpg" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>
             <div class="content col-9 py-5 text-center d-flex flex-column align-items-center">
                 <p class="display-4 text-white">Retrouvez les coordonnées de votre Comité Départemental</p>
@@ -113,14 +113,14 @@
         </div>
     </div>
     <div id="downloadcards" class="d-flex justify-content-center mt-xl-3 my-md-0 px-3 pt-3 pt-xl-5 pt-sm-2">
-        <img src="../img/graphisme 1(1).png" alt="" id="graphisme2">
+        <img src="../img/graphisme 1(1).png" id="graphisme2">
         <div class="row col-12 mt-3 d-flex justify-content-center pt-5">
             <p class="display-4 text-center my-5">Documents liés</p>
             <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" alt="" class="mb-3">
+                            <img src="../img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Composition des instances dirigeantes</h6>
                         </div>
                         <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
@@ -133,7 +133,7 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" alt="" class="mb-3">
+                            <img src="../img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Composition des instances dirigeantes</h6>
                         </div>
                         <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
@@ -146,7 +146,7 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" alt="" class="mb-3">
+                            <img src="../img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Procès-Verbal de la précédente AG</h6>
                         </div>
                         <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">

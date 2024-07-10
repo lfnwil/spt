@@ -4,7 +4,7 @@
 <div class="content p-0" id="testcondition">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/Test forme 1.jpg" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
+            <img src="../img/Test forme 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Tester votre condition physique</p>
             </div>
@@ -74,7 +74,7 @@
                             <h5 class="fw-bold">fois le genou droit !</h5>
                         </div>
                         <div class="mt-5 text-center">
-                            <a class="btn w-100 py-2 text-white shadow" style="background-color: #0099DC">
+                            <a class="btn w-100 py-3 text-white shadow" style="background-color: #0099DC">
                                 <span class="fw-bold text-center">Valider</span>
                             </a>
                         </div>
@@ -85,7 +85,7 @@
     </div>
     <div class="container my-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center py-5">
-            <img src="../img/AdobeStock_159472423 1.png" alt="Background Image" class="img-fluid w-100 h-100 position-absolute">
+            <img src="../img/AdobeStock_159472423 1.jpg" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>
             <div class="content col-9 py-5 text-center d-flex flex-column align-items-center">
                 <p class="display-4 text-white mt-lg-5">Vous souhaitez en savoir plus sur votre condition physique ?</p>
@@ -104,6 +104,6 @@
 
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+        <img src="../img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

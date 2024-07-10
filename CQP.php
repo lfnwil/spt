@@ -4,7 +4,7 @@
 <div class="content p-0" id="CQP">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/DSC03731 1.png" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
+            <img src="../img/DSC03731 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">CQP Animateur de Loisir Sportif (ALS)</p>
             </div>
@@ -20,8 +20,8 @@
     </div>
     <div class="d-flex flex-column align-items-center justify-content-center">
         <div id="textimg" class="d-flex justify-content-center">
-            <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
-                <div class="col-lg-6 flex-column p-3">
+            <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
+                <div class="col-sm-6 flex-column p-3">
                     <div class="py-lg-5">
                         <p class="display-4 fw-bold col-lg-9">Qu’est-ce que le CQP ALS ?</p>
                         <h6 class="my-4">Le Certificat de Qualification Professionnelle (CQP) d’Animateur de Loisir Sportif (ALS) est une qualification reconnue et bien installée dans le panorama des qualifications du champ sportif.</h6>
@@ -33,9 +33,9 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6 d-flex justify-content-center p-3">
+                <div class="col-sm-6 d-flex justify-content-center p-3">
                     <div class="">
-                        <img src="../img/_TC18742 1.png" alt="" class="img-fluid">
+                        <img src="../img/_TC18742 1.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -92,13 +92,13 @@
             (Source : enquête de suivi de cohortes 2017 et 2022 réalisées par le Cérès)
         </h6>                    
         <div id="imgtext" class="d-flex justify-content-center py-lg-5">
-            <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
-                <div class="col-lg-6 d-flex justify-content-center p-3">
+            <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
+                <div class="col-sm-6 d-flex justify-content-center p-3">
                     <div class="">
-                        <img src="../img/Tuile nos missions 2.png" alt="" class="img-fluid">
+                        <img src="../img/Tuile nos missions 2.jpg" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-6 flex-column p-3">
+                <div class="col-sm-6 flex-column p-3">
                     <p class="display-4 fw-bold">Le CQP ALS à la Fédération Française Sports pour Tous</p>
                     <h6 class="my-5 fw-bold">A la Fédération Française Sports pour Tous, le CQP ALS correspond au premier niveau de qualification nécessaire afin de devenir Animateur de Loisir Sportif.</h6>
                     <h6 class="my-4">Il s’inscrit bien dans le projet de la Fédération par son entrée multisports et sa dimension éducative. Chaque année, nous formons près de 500 stagiaires dans toute la France au CQP ALS. Nous avons développé une réelle expertise dans sa mise en œuvre avec un taux de réussite de 94 % et un taux d’insertion professionnelle de plus de 90 % </h6>
@@ -133,7 +133,7 @@
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                             <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                             </div>
@@ -153,7 +153,7 @@
                                         </div>                                                    
                                     </div>
                                     <div class="row">
-                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                             <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                             </div>
@@ -173,7 +173,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
                                                 </div>
@@ -212,7 +212,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                                 </div>
@@ -234,7 +234,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                                 </div>
@@ -255,7 +255,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
                                                 </div>
@@ -294,7 +294,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                                 </div>
@@ -316,7 +316,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                                 </div>
@@ -337,7 +337,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="d-flex flex-column p-3 p-lg-5 bg-f2 radius-20 my-4">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
                                                 <div class="col-lg-3">
                                                     <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
                                                 </div>
@@ -1206,7 +1206,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5" alt="Citation">
+                                                <img src="../img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1220,7 +1220,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5" alt="Citation">
+                                                <img src="../img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1234,7 +1234,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5" alt="Citation">
+                                                <img src="../img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1262,6 +1262,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+        <img src="../img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

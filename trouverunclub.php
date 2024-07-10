@@ -4,7 +4,7 @@
 <div class="content p-0" id="trouverunclub">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/AdobeStock_634484206 2.png" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
+            <img src="../img/AdobeStock_634484206 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Trouver un Club Sports pour Tous</p>
             </div>
@@ -23,7 +23,7 @@
     <div class="row d-flex justify-content-between m-0 container-fluid py-4" id="trouverunclub">
         <div class="container-fluid col-md-6 p-sm-4 p-0">
             <div class="card text-center">
-                <img src="../img/recherche par departements.png" alt="" class="img-fluid">
+                <img src="../img/recherche par departements.png" class="img-fluid">
             </div>
         </div>
         <div class="container-fluid col-md-6 p-sm-4 p-0 py-4" id="rechercheavancee">
@@ -112,6 +112,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+        <img src="../img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>
