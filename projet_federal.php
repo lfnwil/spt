@@ -105,7 +105,7 @@
     </div>  
 </div>
 <!-- /Content area -->
- 
+
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">

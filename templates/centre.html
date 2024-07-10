@@ -43,15 +43,15 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                            <a href="../#" class="d-flex flex-column align-items-center justify-content-around">
                                 <img src="../img/france.png" class="mx-auto mb-2">
                                 <span class="small col-lg-8 text-white fw-bold">Trouver un club</span>
                             </a>
-                            <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                            <a href="../#" class="d-flex flex-column align-items-center justify-content-around">
                                 <img src="../img/Group 41.png" class="mx-auto mb-2">
                                 <span class="small text-white fw-bold">Extranet</span>
                             </a>
-                            <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                            <a href="../#" class="d-flex flex-column align-items-center justify-content-around">
                                 <img src="../img/Group 42.png" class="mx-auto mb-2">
                                 <span class="small col-lg-8 text-white fw-bold">Espace licencié</span>
                             </a>
@@ -65,7 +65,7 @@
                     </button>
                     
                     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"  data-bs-backdrop="true">
-                        <div class="modal-dialog modal-fullscreen py-5 px-md-3">
+                        <div class="modal-dialog modal-fullscreen py-3 px-md-3">
                             <div class="modal-content bg-transparent container-fluid">
                                 <div class="bg-white radius-20 px-xxl-5 pb-5 container-fluid">
                                     <div class="modal-header d-flex justify-content-end border-0 p-3">
