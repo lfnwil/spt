@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-center my-5 ">
-            <div class="col-md-9 flex-wrap d-flex justify-content-between">
+            <div class="col-md-9 flex-wrap d-flex justify-content-around">
                     <button class="btn px-4 py-2" onclick="scrollToYear('year-1962')">1962</button>
                     <button class="btn px-4 py-2" onclick="scrollToYear('year-1964')">1964</button>
                     <button class="btn px-4 py-2" onclick="scrollToYear('year-1967')">1967</button>
@@ -32,7 +32,7 @@
     <div id="textimg" class="container-fluid year-1953 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1953</p>
+                <p id="bgannee" class="col-12">1953</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1953</p>
                     <h6 class="fw-bold my-5">Création de l'Amicale des Anciens Stagiaires, Animateurs des Activités Physiques de la Jeunesse Ouvrière et Rurale</h6>

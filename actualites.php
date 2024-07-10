@@ -4,7 +4,7 @@
 <div class="content p-0" id="actualites">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/sport-activite-nature-lozere-velo-tout-terrain-13-1200x900 1.jpg" class="img-fluid">
+            <img src="../img/sport-activite-nature-lozere-velo-tout-terrain-13-1200x900 1.jpg" alt="Centre d'activités de pleine nature de Sainte-Énimie" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Notre actualité</p>
             </div>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="col-12 h-100 d-flex flex-column">
-                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100">
+                        <img src="../img/Actu 1 1.jpg" class="radius-15 w-100" alt="">
                         <h6 class="text-prim my-4">VIE FEDERAL</h6>
                         <h4 class="text-sec fw-bold">Road Tour Sports pour tous : C’est parti pour la 4ème édition !</h4>
                         <h6 class="my-4">C’est l’heure du départ pour le Road Tour Sports pour Tous. Il s’élance dès aujourd’hui en Normandie puis traversera la France jusqu’au 10 novembre en Guyane.</h6>

@@ -64,7 +64,7 @@
                     </ul>
                 </div>
                 <a class="btn col-lg-7 py-3 text-white shadow" style="background-color: #E3004F;">
-                    <img src="../img/Vector(14).png" class="me-3">
+                    <img src="../img/Vector(14).png" class="me-3 rounded-0">
                     <span class="fw-bold text-center">Télécharger le Projet Fédéral</span>
                 </a>
             </div>
@@ -105,7 +105,7 @@
     </div>  
 </div>
 <!-- /Content area -->
-
+ 
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">

@@ -83,7 +83,7 @@
                 </div>
             </div>
         </div>
-        <h6 class="text-center col-lg-8">
+        <h6 class="text-center col-lg-8 col-10">
             Sur la saison 2021-2022, 617 stagiaires ont suivi la formation CQP ALS sur l'ensemble du territoire (483 en AGEE, 108 en JSJO et 26 en ARPO).
             Sur la saison 2022-2023, la Fédération Française Sports pour Tous dénombre 31 formations CQP ALS et 348 stagiaires.
             Dans le cadre de l’enquête satisfaction en fin de formation réalisée auprès de 617 stagiaires en CQP ALS (taux de réponse de 45% , soit 274 répondants) 
@@ -372,20 +372,24 @@
                         <div class="collapse mt-5" id="collapseprerogatives">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                <div class="flex-column card p-4 p-sm-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                            </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
+                                            <div class="col-lg-6">
                                                 <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
                                                     <li>Techniques cardio (ex : Lia, Step)</li>
                                                     <li>Renforcement musculaire (ex : Pilates)</li>
                                                     <li>Techniques douces (ex : Stretching, Qi-gong)</li>
@@ -396,17 +400,19 @@
                                             <div class="col-lg-3">
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
+                                        </div>                                                    
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
+                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                            <div class="col-lg-6">
+                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
                                                 </ul>
                                                 <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
                                             </div>
@@ -414,22 +420,27 @@
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsedebouches" role="button" aria-expanded="false" aria-controls="collapsedebouches">
@@ -439,64 +450,79 @@
                         <div class="collapse mt-5" id="collapsedebouches">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsecadre" role="button" aria-expanded="false" aria-controls="collapsecadre">
@@ -506,62 +532,76 @@
                         <div class="collapse mt-5" id="collapsecadre">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
                     </div>
@@ -581,20 +621,24 @@
                         <div class="collapse mt-5" id="collapseprerogatives">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                <div class="flex-column card p-4 p-sm-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                            </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
+                                            <div class="col-lg-6">
                                                 <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
                                                     <li>Techniques cardio (ex : Lia, Step)</li>
                                                     <li>Renforcement musculaire (ex : Pilates)</li>
                                                     <li>Techniques douces (ex : Stretching, Qi-gong)</li>
@@ -605,17 +649,19 @@
                                             <div class="col-lg-3">
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
+                                        </div>                                                    
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
+                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                            <div class="col-lg-6">
+                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
                                                 </ul>
                                                 <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
                                             </div>
@@ -623,22 +669,27 @@
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsedebouches" role="button" aria-expanded="false" aria-controls="collapsedebouches">
@@ -648,64 +699,79 @@
                         <div class="collapse mt-5" id="collapsedebouches">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsecadre" role="button" aria-expanded="false" aria-controls="collapsecadre">
@@ -715,62 +781,76 @@
                         <div class="collapse mt-5" id="collapsecadre">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
                     </div>
@@ -790,20 +870,24 @@
                         <div class="collapse mt-5" id="collapseprerogatives">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                <div class="flex-column card p-4 p-sm-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                            </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
+                                            <div class="col-lg-6">
                                                 <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
                                                     <li>Techniques cardio (ex : Lia, Step)</li>
                                                     <li>Renforcement musculaire (ex : Pilates)</li>
                                                     <li>Techniques douces (ex : Stretching, Qi-gong)</li>
@@ -814,17 +898,19 @@
                                             <div class="col-lg-3">
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
+                                        </div>                                                    
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
+                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                            <div class="col-lg-6">
+                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
                                                 </ul>
                                                 <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
                                             </div>
@@ -832,22 +918,27 @@
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsedebouches" role="button" aria-expanded="false" aria-controls="collapsedebouches">
@@ -857,64 +948,79 @@
                         <div class="collapse mt-5" id="collapsedebouches">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsecadre" role="button" aria-expanded="false" aria-controls="collapsecadre">
@@ -924,62 +1030,76 @@
                         <div class="collapse mt-5" id="collapsecadre">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
                     </div>
@@ -999,20 +1119,24 @@
                         <div class="collapse mt-5" id="collapseprerogatives">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                <div class="flex-column card p-4 p-sm-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
+                                            </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
                                                 <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
+                                            <div class="col-lg-6">
                                                 <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
                                                     <li>Techniques cardio (ex : Lia, Step)</li>
                                                     <li>Renforcement musculaire (ex : Pilates)</li>
                                                     <li>Techniques douces (ex : Stretching, Qi-gong)</li>
@@ -1023,17 +1147,19 @@
                                             <div class="col-lg-3">
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
+                                        </div>                                                    
+                                    </div>
+                                    <div class="row">
+                                        <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                            <div class="col-lg-3 mb-4 mb-lg-0">
+                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                            <div class="col-lg-6">
+                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
                                                 </ul>
                                                 <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
                                             </div>
@@ -1041,22 +1167,27 @@
                                                 <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsedebouches" role="button" aria-expanded="false" aria-controls="collapsedebouches">
@@ -1066,64 +1197,79 @@
                         <div class="collapse mt-5" id="collapsedebouches">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
+                        
                     </div>
                     <div class="my-5">
                         <a class="d-flex align-items-center justify-content-between text-decoration-none text-dark border-bottom pb-4" data-bs-toggle="collapse" href="#collapsecadre" role="button" aria-expanded="false" aria-controls="collapsecadre">
@@ -1133,65 +1279,79 @@
                         <div class="collapse mt-5" id="collapsecadre">
                             <div class="border-bottom">
                                 <h6>Le CQP ALS confère à son titulaire les prérogatives d’exercice professionnel qui y sont rattachées et mentionnées dans le tableau suivant :</h6>
-                                <div class="flex-column card p-5 mt-5 col-lg-10">
-                                    <div class="">
-                                        <div class="d-flex align-items-center px-lg-5">
-                                            <div class="col-lg-3"><p>Option</p></div>
-                                            <div class="col-lg-5 mx-5"><p>Prérogatives d’exercice & d’activités</p></div>
-                                            <div class="col-lg-3"><p>Limites d’exercice</p></div>
-                                        </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Techniques cardio (ex : Lia, Step)</li>
-                                                    <li>Renforcement musculaire (ex : Pilates)</li>
-                                                    <li>Techniques douces (ex : Stretching, Qi-gong)</li>
-                                                    <li>Activités d’expression (ex : Expression corporelle)</li>
-                                                </ul>
-                                                <h6>Sans recours à des appareils de musculation</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                <div class="flex-column card p-3 p-lg-5 mt-5 col-lg-10 mx-auto">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center">
+                                                <div class="col-lg-3"><p>Option</p></div>
+                                                <div class="col-lg-5 mx-lg-5"><p>Prérogatives d’exercice & d’activités</p></div>
+                                                <div class="col-lg-3"><p>Limites d’exercice</p></div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeuxd’Opposition (JSJO)</h6>
-                                            </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition : </h6>
-                                                <ul class="fw-bold my-5" style="color: #0099DC; font-size: 18px;">
-                                                    <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
-                                                    <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
-                                                    <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
-                                                </ul>
-                                                <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
-                                            </div>
-                                            <div class="col-lg-3">
-                                                <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités Gymniques d’Entretien et d’Expression (AGEE)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des activités gymniques d’entretien et d’expression :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Techniques cardio (ex : Lia, Step)</li>
+                                                        <li>Renforcement musculaire (ex : Pilates)</li>
+                                                        <li>Techniques douces (ex : Stretching, Qi-gong)</li>
+                                                        <li>Activités d’expression (ex : Expression corporelle)</li>
+                                                    </ul>
+                                                    <h6>Sans recours à des appareils de musculation</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex p-3 p-lg-5 bg-f2 radius-20 my-5">
-                                            <div class="col-lg-3">
-                                                <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Jeux Sportifs et Jeux d’Opposition (JSJO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6>Encadrement par la découverte et l’animation des jeux sportifs et jeux d’opposition :</h6>
+                                                    <ul class="fw-bold my-4" style="color: #0099DC; font-size: 16px;">
+                                                        <li>Arts et éducation par les activités physiques d’opposition (ex : Lutte, Taï-chi)</li>
+                                                        <li>Jeux de raquettes (ex : Speedball, Badminton)</li>
+                                                        <li>Jeux de ballons, petits et grands terrains (ex : kinball, basket)</li>
+                                                    </ul>
+                                                    <h6>À l’exclusion des pratiques compétitives, de la délivrance de niveaux, de ceintures ou de grades.</h6>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <h6>Sans recours à des appareils de musculation À l’exclusion des cours individuels</h6>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-5 mx-5">
-                                                <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
-                                                <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
-                                                <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
-                                                <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="d-flex flex-column flex-lg-row p-3 p-lg-5 bg-f2 radius-20 my-3">
+                                                <div class="col-lg-3">
+                                                    <h6 class="fw-bold" style="color: #12408F;">Activités de Randonnée de Proximité et d’Orientation (ARPO)</h6>
+                                                </div>
+                                                <div class="col-lg-5 mx-lg-5">
+                                                    <h6 class="">Encadrement et animation d’activités de type vélo loisir, randonnée pédestre, roller, orientation se caractérisant par un déplacement finalisé avec ou sans engin dans un milieux naturel ou le reproduisant. </h6>
+                                                    <h6 class="my-4">Les principaux moyens de déplacement sont la marche à pied et le cyclisme (route ou VTT), sur des parcours adaptés aux pratiquants.</h6>
+                                                    <h6 class="my-4">Ces activités se pratiquent sur des circuits répertoriés d’accès facile et balisés sur des parcours permettant en permanence un accès facile à un point de secours ou d’alerte.</h6>
+                                                    <h6 class="">Ces activités ne peuvent s’effectuer avec des engins à moteur, des animaux montés ou attelés. Le titulaire du CQP ALS ne possède pas les prérogatives du balisage de parcours.</h6>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6 class="my-5">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
+                                <h6 class="my-5 text-center">Les options AGEE et JSJO entrent dans le champ de la réglementation des activités physiques et sportives au sens de l’article L212-1 du Code du Sport et donnent lieu à la délivrance par le ministère chargé des Sports d’une carte professionnelle, contrairement à l’option ARPO. Cette dernière correspond à des activités de loisir dont la pratique et l’enseignement ne sont pas réglementés par le Code du Sport.</h6>
                             </div>
                         </div>
-                    </div>
+                        </div>
                 </div>
             </div>
         </div>

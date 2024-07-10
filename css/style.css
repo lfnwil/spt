@@ -262,18 +262,6 @@ ul img {
 #textimg img, #imgtext img , #textimgbtn img{
     border-radius: 0px 20px; 
 }
-#textimg #bgannee, 
-#imgtext #bgannee{
-    position: absolute;
-    z-index: -1;
-    color: #F8F8F8;
-    font-size: 18.75rem;
-    font-style: italic;
-    font-weight: 700;
-    letter-spacing: 6px;
-    margin: 0; 
-    padding: 0;
-}
 #textimg .display-1, #imgtext .display-1{
     color: #0099DC;
 }
@@ -492,6 +480,47 @@ ul img {
     color: #8B8882;
     border: solid 1px #B6B3AD;
     font-size: 20px;
+}
+
+#histoire #textimg #bgannee, 
+#histoire #imgtext #bgannee {
+    position: absolute;
+    z-index: -1;
+    color: #F8F8F8;
+    font-size: 18rem;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 6px;
+    margin: 0; 
+    padding: 0;
+}
+
+@media (max-width: 1600px) {
+    #histoire #textimg #bgannee, 
+    #histoire #imgtext #bgannee {
+        font-size: 10rem;
+    }
+}
+
+@media (max-width: 992px) {
+    #histoire #textimg #bgannee, 
+    #histoire #imgtext #bgannee {
+        font-size:  18rem;
+    }
+}
+
+@media (max-width: 768px) {
+    #histoire #textimg #bgannee, 
+    #histoire #imgtext #bgannee {
+        font-size: 15rem;
+    }
+}
+
+@media (max-width: 576px) {
+    #histoire #textimg #bgannee, 
+    #histoire #imgtext #bgannee {
+        font-size: 9rem;
+    }
 }
 /* histoire */
 
