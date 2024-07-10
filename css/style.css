@@ -765,6 +765,15 @@ ul img {
         font-size: 6.25rem;
     }
 }
+#roadtour #carte img {
+    z-index: 1;
+}
+#roadtour #evenements .display-4 {
+    color: #E3004F;
+}
+#roadtour #evenements img {
+    border-radius: 0 20px;
+}
 /* road tour */
 
 /* contact */
