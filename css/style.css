@@ -2,134 +2,106 @@
 html {
     width: 100vw;
 }
-
 body {
     font-family: "Helvetica Neue LT Std", Helvetica, Arial, sans-serif;
     background-color: #fff; 
     max-width: 100%; 
     overflow-x: hidden;
 }
-
 a {
     color: inherit; 
     text-decoration: none;
 }
-
 select {
     border-radius: 10px;
     width: 90%;
     border: 1px solid #a0a0a0;
 }
-
 input {
     border-radius: 10px;
     width: 95%;
 }
-
 #testcondition input, #testcondition select, #contact input, #contact select, #actualites select, #actualites input {
     border-radius: 17px;
 }
-
 .btn {
     background-color: #0099DC;
     border-radius: 17px;
 }
-
 .shadow {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);  
 }
-
 .card {
     border: 0;
     border-radius: 20px;
 }
-
 .display-4 {
     color: #0099DC;
     font-weight: bold;
 }
-
 h1, .h1 {
     color: #12408F;
     font-weight: bold;
 }
-
 h6 {
     font-size: 1.125rem;
 }
-
 .text-prim {
     color: #0099DC;
 }
-
 .text-sec {
     color: #1D387D;
 }
-
 .text-red {
     color: #E3004F;
 }
-
 .bg-f2 {
     background-color: #F2F2F2;
 }
-
 .shadow {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.45); 
 }
-
 .radius-15 {
     border-radius: 15px;
 }
-
 .radius-20 {
     border-radius: 20px;
 }
-
 .radius-020 {
     border-radius: 0 20px;
 }
-
 .underline {
     text-decoration: underline;
 }
-
 input[type="checkbox"],
 input[type="radio"]{
     transform: scale(1.5);
     border: 1px solid #C2C2C2;
 }
-
 #graphisme {
     position: absolute;
     z-index: -5;
 }
-
 #graphisme2 {
     position: absolute; 
     height: 80vh; 
     width: auto; 
     right: 0;
 }
-
 .custom-svg {
     transform: translateY(-750px); /* Ajustez cette valeur selon vos besoins */
 }
-
-
 .separator-vertical {
     width: 1px;
     background-color: #ccc; 
     height: 40vh;
 }
-
 .overlay-text {
     z-index: 1;
 }
 /*/general */
 
 /* header */
-
 #header {
     position: absolute;
     width: 100%;
@@ -137,80 +109,64 @@ input[type="radio"]{
     left: 0;
     z-index: 1000;
 }
-
 #logo {
     height: 4rem;
 }
-
 .dropdown-menu {
     position: absolute; 
     z-index: 1050;
     transform: translate(-136px);
 }
-
 .page-header-content {
     position: relative;
 }
-
 /* modal menu */
 .modal-backdrop {
     z-index: 1;
 }
-
 .modal-header span{
     font-size: 14px;
     color: #B6B3AD;
     font-weight: bold;
 }
-
 .modal-body h3{
     font-size: 30px;
     color: #0E3083;
     font-weight: bold;
 }
-
 .modal-body .niv1menu a {
     font-size: 18px;
     color: #0099DC;
 }
-
 .modal-body .toggle-icon {
     transition: transform 0.3s ease;
 }
-
 .modal-body .accordion-header[aria-expanded="true"] .toggle-icon {
     transform: rotate(180deg);
 }
-
 .modal-body .niv2menu h6 {
     font-size: 14px;
     color: #8B8882;
 }
-
 .modal-body .niv3menu a {
     font-size: 16px;
     color: #0071BA;
     font-weight: bold;
 }
-
 #verticaldivider {
     width: 1px;
     height: 40vh;
     background-color: #B6B3AD;
 }
-
 /* /modal menu */
 
 /* /header */
-
 /* page header */
-
 #bandeau {
     height: 75vh;
    background-color: black;
    z-index: -1;
 }
-
 #bandeau img {
     object-fit: cover;
     width: 100%;
@@ -218,38 +174,30 @@ input[type="radio"]{
     z-index: -1;
     opacity: 0.75;
 }
-
 .breadcrumb-item.active {
     color: #a0a0a0;
     font-size: 14px;
 }
-
 /* /page header */
 
 /* footer */
-
 #ellipse {
     width: 100%; 
     z-index: 1; 
     padding: 0%;
 }
-
 .navbar {
     background-color: #E3004F;
 }
-
 #footerlogo {
     width: 25rem;
 }
-
 #footer h2 {
     font-size: 30px;
 }
-
 ul img {
     width: 5rem;
 }
-
 /* footer */
 
 /* block */
@@ -406,7 +354,6 @@ ul img {
 #index #actualites .card {
     border-radius: 0 20px 0 20px;
 }
-
 #index #actualites .card .img-fluid {
     border-radius: 0 20px 0 0;
     object-fit: cover;
@@ -414,7 +361,6 @@ ul img {
 #index #actualites .card p {
     color: #B6B3AD;
 }
-
 #index #actualites .card a, #index #actualites .card h2 {
     color: #0E3083;
 }
@@ -481,7 +427,6 @@ ul img {
     border: solid 1px #B6B3AD;
     font-size: 20px;
 }
-
 #histoire #textimg #bgannee, 
 #histoire #imgtext #bgannee {
     position: absolute;
@@ -494,28 +439,24 @@ ul img {
     margin: 0; 
     padding: 0;
 }
-
 @media (max-width: 1600px) {
     #histoire #textimg #bgannee, 
     #histoire #imgtext #bgannee {
         font-size: 10rem;
     }
 }
-
 @media (max-width: 992px) {
     #histoire #textimg #bgannee, 
     #histoire #imgtext #bgannee {
         font-size:  18rem;
     }
 }
-
 @media (max-width: 768px) {
     #histoire #textimg #bgannee, 
     #histoire #imgtext #bgannee {
         font-size: 15rem;
     }
 }
-
 @media (max-width: 576px) {
     #histoire #textimg #bgannee, 
     #histoire #imgtext #bgannee {

@@ -20,7 +20,8 @@
             <h6>Petits et grands sont invités à s'initier et à découvrir de nombreuses activités, connues ou moins connues pour trouver l'activité adaptée à leurs envies. <strong> Un seul objectif : que le sport fasse partie du quotidien de plus de Français !</strong></h6>
         </div>
     </div>
-    <div id="textimgbtn" class="d-flex justify-content-center p-lg-5">
+    <img src="../img/Group 47.jpg" class="img-fluid position-absolute">
+    <div id="textimgbtn" class="d-flex justify-content-center p-lg-5 position-relative">
         <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
             <div class="col-lg-6 flex-column p-3">
                 <div class="py-lg-5">
@@ -37,12 +38,8 @@
                 </div>
             </div>
         </div>
-        
     </div>
-    <svg class="custom-svg d-none d-xxl-block" width="100%" height="200%" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M-395.486 367.839C-374.871 611.045 393.837 1096.49 1458.18 1006.27C2522.52 916.058 3368.63 645.765 3348.02 402.559C3327.4 159.353 1658.56 -245.548 1044.48 199.342C430.409 644.232 -416.101 124.633 -395.486 367.839Z" fill="#F2F2F2"/>
-    </svg>
-    <div id="imgtext" class="d-flex justify-content-center p-lg-5">
+    <div id="imgtext" class="d-flex justify-content-center p-lg-5 position-relative">
         <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
             <div class="col-lg-6 d-flex justify-content-center p-3">
                 <div class="">
@@ -64,7 +61,7 @@
             
         </div>
     </div> 
-    <div class="d-flex justify-content-center p-3">
+    <div class="d-flex justify-content-center p-3 position-relative">
         <img src="../img/fsdf 1.jpg" class="radius-20 img-fluid">
     </div>
     <div class="container-fluid d-flex justify-content-center p-lg-5">
@@ -101,18 +98,43 @@
             </div>
         </div>
     </div>
-    <div class="d-flex justify-content-center p-3">
-        <img src="../img/carte_france.jpg" class="radius-20 img-fluid">
+    <div class="d-flex justify-content-center p-5" id="carte">
+        <img src="../img/carte_france.jpg" class="radius-20 img-fluid position-absolute col-md-9 col-11">
     </div>
-    <div id="evenements" class="d-flex justify-content-center pt-5">
+    <img src="../img/Ellipse 23.png" class="col-12 img-fluid position-relative">
+    <div id="evenements" class="d-flex justify-content-center pt-md-5 bg-f2">
         <div class="row d-flex justify-content-around align-items-center col-12 container-fluid pt-xl-5">
-            <p class="display-4 fw-bold text-center col-12">3 évènements</p>
+            <p class="display-4 fw-bold text-center col-12 pt-5">3 évènements</p>
             <div class="row col-12 d-flex justify-content-center py-4">
-                <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
+                <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
+                    <div class="h-100 d-flex flex-column">
+                        <img src="../img/Tuile nos missions 1.jpg" class="radius-15 w-100">
+                        <div class="my-3 col-8">
+                            <h4 class="fw-bold">Bindernheim (67) avec le Comité Régional Sports pour Tous Grand-Est</h4>
+                            <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
+                            <p class="text-prim small fw-bold">Vendredi 3 mai 2024 - 14h00</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
+                <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
+                    <div class="h-100 d-flex flex-column">
+                        <img src="../img/Tuile projet fédéral 1.jpg" class="radius-15 w-100">
+                        <div class="my-3 col-8">
+                            <h4 class="fw-bold">Tinqueux (51) avec le Comité Régional Sports pour Tous Grand-Est & Gymmania Tinqueux</h4>
+                            <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
+                            <p class="text-prim small fw-bold">Vendredi 3 mai 2024 - 14h00</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">  
+                <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
+                    <div class="h-100 d-flex flex-column">
+                        <img src="../img/Tuile organisation 1.jpg" class="radius-15 w-100">
+                        <div class="my-3 col-8">
+                            <h4 class="fw-bold">Reims (51) avec le Comité Régional Sports pour Tous Grand-Est</h4>
+                            <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
+                            <p class="text-prim small fw-bold">Vendredi 3 mai 2024 - 14h00</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
