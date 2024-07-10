@@ -94,7 +94,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-4 d-flex align-items-center justify-content-center my-xl-4 my-lg-0">
-                        <img src="../img/Logo-Qualiopi-300dpi-Impression-56 1.jpg">
+                        <img src="../img/Logo-Qualiopi-300dpi-Impression-56 1.png">
                     </div>
                 </div>
             </div>
@@ -103,6 +103,7 @@
     </div>
 </div>
 <!-- /Content area -->
+
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">

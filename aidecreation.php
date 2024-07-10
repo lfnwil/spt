@@ -1,24 +1,25 @@
 <?php include 'header.php'; ?>
 
- <!-- Content area -->
- <div class="content p-0" id="aidecreation">
+<!-- Content area -->
+<div class="content p-0" id="aidecreation">
     <div id="hautpage">
-        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center mb-5">
-            <img src="../../img/AdobeStock_305465055 2.jpg" class="img-fluid">
+        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
+            <img src="../img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Aide pour créer votre association</p>
             </div>
         </div>
-        
-        <div class="d-flex justify-content-center container-fluid">
+        <div class="d-flex justify-content-center container-fluid my-5">
             <div class="col-md-9">
-                <span class="breadcrumb-item active">Accueil  >  La fédération  > Aide pour créer votre association</span>
+                <span class="breadcrumb-item active">Accueil  >  La fédération  >  Aide pour créer votre association</span>
             </div>
         </div>
-        <div class="flex-column align-items-center p-5 text-center container-fluid" style="color: #0099DC;">
-            <p class="display-4">Aide pour créer votre association</p>
+        <div class="container-fluid text-center">
+            <div class="d-flex flex-column align-items-center">
+                <p class="display-4 text-wrap fs-md-2">Aide pour créer votre association</p>
+            </div>
         </div>
-    </div>                     
+    </div>               
     <div id="textimg" class="d-flex justify-content-center p-xxl-5">
         <div class="row d-flex justify-content-between align-items-center col-lg-10 container-fluid">
             <div class="col-sm-6 flex-column p-3">

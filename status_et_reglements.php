@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
- <!-- Content area -->
- <div class="content p-0" id="statutsetreglements">
+<!-- Content area -->
+<div class="content p-0" id="statutsetreglements">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
             <img src="../img/Tuile organisation 2.jpg" class="img-fluid">
@@ -22,7 +22,7 @@
     </div>                      
     <div id="downloadcards" class="d-flex justify-content-center p-xl-5 bg-white">
         <div class="row col-12 mt-3 d-flex justify-content-center py-5">
-            <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
+            <div class="col-xl-3 col-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
+            <div class="col-xl-3 col-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
@@ -48,7 +48,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
+            <div class="col-xl-3 col-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
@@ -61,7 +61,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
+            <div class="col-xl-3 col-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">

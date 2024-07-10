@@ -3,20 +3,19 @@
 <!-- Content area -->
 <div class="content p-0" id="contact">
     <div id="hautpage">
-        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center mb-5">
-            <img src="../img/contact.jpg" class="img-fluid">
+        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
+            <img src="../img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Contact</p>
             </div>
         </div>
-        
-        <div class="d-flex justify-content-center container-fluid">
+        <div class="d-flex justify-content-center container-fluid my-5">
             <div class="col-md-9">
-                <span class="breadcrumb-item active">Accueil  >  La fédération  > Contact </span>
+                <span class="breadcrumb-item active">Accueil  >  La fédération  >  Contact</span>
             </div>
         </div>
-    </div>               
-    <div class="d-flex justify-content-center py-5">
+    </div>          
+    <div class="d-flex justify-content-center">
         <div class="d-flex flex-wrap justify-content-between m-0 container-fluid col-lg-9">
             <div class="container-fluid col-lg-4 col-md-12 p-0 m-0">
                 <p class="display-4">Nous contacter</p>
@@ -124,7 +123,7 @@
     </div>
 </div>
 <!-- /Content area -->
-    
+
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">

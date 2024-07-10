@@ -101,9 +101,6 @@
             </div>
         </div>
     </div>
-    <svg width="1920" height="1280" viewBox="0 0 1920 985" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M-265.73 57.2999C-281.825 300.847 405.382 896.093 1471.22 966.527C2537.05 1036.96 3414.13 896.626 3430.22 653.079C3446.32 409.532 1857.07 -241.083 1183.22 106.676C509.37 454.435 -249.635 -186.247 -265.73 57.2999Z" fill="#F2F2F2"/>
-    </svg>
     <div class="d-flex justify-content-center p-3">
         <img src="../img/carte_france.jpg" class="radius-20 img-fluid">
     </div>

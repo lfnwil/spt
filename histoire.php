@@ -32,7 +32,7 @@
     <div id="textimg" class="container-fluid year-1953 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-12">1953</p>
+                <p id="bgannee" class="col-11">1953</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1953</p>
                     <h6 class="fw-bold my-5">Création de l'Amicale des Anciens Stagiaires, Animateurs des Activités Physiques de la Jeunesse Ouvrière et Rurale</h6>
@@ -40,17 +40,17 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1953 1.jpg" class="img-fluid">
+                <img src="../img/1953 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1962 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1962 1.jpg" class="img-fluid">
+                <img src="../img/1962 1.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1962</p>
+                <p id="bgannee" class="col-11">1962</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1962</p>
                     <h6 class="fw-bold my-5">Création de l'Amicale des Anciens Stagiaires, Animateurs des Activités Physiques de la Jeunesse Ouvrière et Rurale</h6>
@@ -62,7 +62,7 @@
     <div id="textimg" class="container-fluid year-1964 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1964</p>
+                <p id="bgannee" class="col-11">1964</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1964</p>
                     <h6 class="fw-bold my-5">Agrément du ministère de la Jeunesse et des Sports</h6>
@@ -70,17 +70,17 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1953 1.jpg" class="img-fluid">
+                <img src="../img/1953 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1967 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid">
+                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1967</p>
+                <p id="bgannee" class="col-11">1967</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1967</p>
                     <h6 class="fw-bold my-5">L'Association Nationale devient le Fédération Française l'Entraînement Physique dans le Monde Moderne</h6>
@@ -92,7 +92,7 @@
     <div id="textimg" class="container-fluid year-1968 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1968</p>
+                <p id="bgannee" class="col-11">1968</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1968</p>
                     <h6 class="fw-bold my-5">Création du Centre d'activités de Pleine Nature de Sainte-Énimie</h6>
@@ -100,17 +100,17 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1968 1.jpg" class="img-fluid">
+                <img src="../img/1968 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1973 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid">
+                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1973</p>
+                <p id="bgannee" class="col-11">1973</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1973</p>
                     <h6 class="fw-bold my-5">Reconnue d'utilité publique</h6>
@@ -122,7 +122,7 @@
     <div id="textimg" class="container-fluid year-1979 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1979</p>
+                <p id="bgannee" class="col-11">1979</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1979</p>
                     <h6 class="fw-bold my-5">Évolution du nom de la Fédération</h6>
@@ -130,17 +130,17 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1979 1.jpg" class="img-fluid">
+                <img src="../img/1979 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1983 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid">
+                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">1983</p>
+                <p id="bgannee" class="col-11">1983</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">1983</p>
                     <h6 class="fw-bold my-5">Création de la Fédération Internationale du Sport pour Tous</h6>
@@ -152,7 +152,7 @@
     <div id="textimg" class="container-fluid year-2009 d-flex justify-content-center  my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">2009</p>
+                <p id="bgannee" class="col-11">2009</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">2009</p>
                     <h6 class="fw-bold my-5">Lancement des programmes Sport Santé Bien-Être</h6>
@@ -160,17 +160,17 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/2009 1.jpg" class="img-fluid">
+                <img src="../img/2009 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div> 
     <div id="imgtext" class="container-fluid year-2014 d-flex justify-content-center  my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid">
+                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">2014</p>
+                <p id="bgannee" class="col-11">2014</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">2014</p>
                     <h6 class="fw-bold my-5">Changement de nom et création de la Charte Club Sports Santé</h6>
@@ -183,7 +183,7 @@
     <div id="textimg" class="container-fluid year-2020 d-flex justify-content-center  my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 flex-column">
-                <p id="bgannee" class="col-xxl-12">2020</p>
+                <p id="bgannee" class="col-11">2020</p>
                 <div class="py-lg-5">
                     <p class="display-1 fw-bold">2020</p>
                     <h6 class="fw-bold my-5">Création de la Semaine de la Forme et du Road Tour Sports pour Tous</h6>
@@ -192,7 +192,7 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/2020 1.jpg" class="img-fluid">
+                <img src="../img/2020 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>

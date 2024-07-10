@@ -16,8 +16,8 @@
         </div>
     </div> 
     <div class="d-flex justify-content-center">
-        <div class="d-flex flex-column flex-lg-row col-xl-9 container-fluid ">
-            <div class="container-fluid col-12 col-lg-6 p-0 py-4 mx-0" id="consignes">
+        <div class="d-flex flex-column flex-lg-row col-xl-9 container-fluid py-5">
+            <div class="container-fluid col-12 col-lg-6 p-0 mx-0" id="consignes">
                 <div class="flex-column align-items-center col-lg-10">
                     <p class="display-4 ">Un test rapide et gratuit !</p>
                     <h6 class="fw-bold my-5">Obtenez un premier aperçu de votre forme grâce à un notre test d’endurance en ligne. L’objectif est de réaliser le plus de montées de genoux possible en 2 minutes.</h6>
@@ -36,9 +36,9 @@
                     </div>
                 </div>
             </div>
-            <div class="container-fluid col-12 col-lg-6 p-0 py-4 mx-0" id="chrono">
+            <div class="container-fluid col-12 col-lg-6 p-0 mx-0" id="chrono">
                 <div class="card flex-column align-items-center py-5">
-                    <form action="" class="col-md-9 container-fluid">
+                    <form action="" class="col-md-9 col-11 container-fluid">
                         <div class="text-start">
                             <h5 class="fw-bold">Je suis</h5>
                             <div class=" d-flex flex-wrap align-items-center">
@@ -68,10 +68,10 @@
                             <h5>Appuyez pour démarrer le chrono !</h5>
                             <p class="display-2 fw-bold"> 2 : 00</p>
                         </div>
-                        <div class="my-4 d-flex align-items-center justify-content-around">
-                            <h5 class="fw-bold">J'ai levé</h5>
-                            <input type="number" class="py-2 w-25 text-center border-0" value="0">
-                            <h5 class="fw-bold">fois le genou droit !</h5>
+                        <div class="my-4 d-flex align-items-center">
+                            <h5 class="fw-bold">J'ai levé le genou droit</h5>
+                            <input type="number" class="py-2 col-3 text-center border-0 mx-3" value="0">
+                            <h5 class="fw-bold">fois !</h5>
                         </div>
                         <div class="mt-5 text-center">
                             <a class="btn w-100 py-3 text-white shadow" style="background-color: #0099DC">
@@ -83,7 +83,7 @@
             </div>
         </div>
     </div>
-    <div class="container my-5" id="imgoverlay">
+    <div class="container my-lg-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center py-5">
             <img src="../img/AdobeStock_159472423 1.jpg" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>

@@ -3,22 +3,24 @@
 <!-- Content area -->
 <div class="content p-0"  id="centre">
     <div id="hautpage">
-        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center mb-5">
+        <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
             <img src="../img/centre-sport-activite-nature-lozere-04-1200x900 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
-                <p class="display-1 fw-bold text-white col-lg-8">Le Centre d’activités de pleine nature de Sainte-Énimie</p>
+                <p class="display-1 fw-bold text-white col-lg-8">Les Comités Régionaux et Départementaux</p>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center container-fluid my-5">
+            <div class="col-md-9">
+                <span class="breadcrumb-item active">Accueil  &gt;  La fédération  &gt;  Le Centre d’activités de pleine nature de Sainte-Énimie</span>
+            </div>
+        </div>
+        <div class="container-fluid text-center ">
+            <div class="d-flex flex-column align-items-center">
+                <p class="display-4 text-wrap fs-md-2 col-sm-6">Le Centre d’activités de pleine nature de Sainte-Énimie</p>
             </div>
         </div>
         
-        <div class="d-flex justify-content-center container-fluid">
-            <div class="col-md-9">
-                <span class="breadcrumb-item active">Accueil  >  La fédération  >  Le Centre d’activités de pleine nature de Sainte-Énimie</span>
-            </div>
-        </div>
-        <div class="d-flex flex-column align-items-center p-5 text-center container-fluid">
-            <p class="display-4 col-xl-6 text-center">Le Centre d’activités de pleine nature de Sainte-Énimie</p>
-        </div>
-    </div>                      
+    </div>              
     <div id="textimg" class="d-flex justify-content-center p-lg-5">
         <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
             <div class="col-sm-6 flex-column p-3">
@@ -40,7 +42,7 @@
     <div id="sliderbackground" class="d-flex col-12 my-5">
         <div class="d-flex align-items-center">
             <div class="container bg-light col-lg-5 p-5 pb-2">
-                <p class="display-4 card-title fw-bold" style="color: #0099DC;">Centre agréé Jeunesse, Sport et éducation nationale</p>
+                <p class="display-4 card-title fw-bold text-prim">Centre agréé Jeunesse, Sport et éducation nationale</p>
                 <p class="card-text p-3">Le centre accueille tous types de publics dès l’âge de 3 ans (groupe scolaire, club de sport, entreprise, particuliers, établissement spécialisé) et permet chaque année à 4 500 jeunes de moins de 18 ans de partir en vacances.</p>
             </div>
         </div>
