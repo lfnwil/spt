@@ -778,3 +778,17 @@ font-style: italic;
 opacity: 0.59;
 }
 /* diabete */
+
+.half-width {
+    width: 50%;
+}
+.divider {
+    border-left: 1px solid #000;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+}
+.vertical-divider {
+    display: flex;
+    align-items: center;
+}
