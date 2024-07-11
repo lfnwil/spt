@@ -309,14 +309,15 @@ ul img {
     bottom: 0;
     right: 0;
 }
-#index #bandeau #infos .container-fluid img {
-    object-fit: cover;
-    position: absolute;
-    top: -50%;
-    width: 40%;
+#index #bandeau #infos #imgcontainer img{
+    position: relative;
+    top: -25%;
     border-radius: 0 20px;
-    z-index: 2;
     opacity: 1;
+}
+#index #bandeau #infos .h50xw50 {
+    height: 50px;
+    width: 50px;
 }
 #index #bandeau #infos .verticaldivider {
     height: auto;
@@ -778,17 +779,3 @@ font-style: italic;
 opacity: 0.59;
 }
 /* diabete */
-
-.half-width {
-    width: 50%;
-}
-.divider {
-    border-left: 1px solid #000;
-    height: 100%;
-    position: absolute;
-    left: 50%;
-}
-.vertical-divider {
-    display: flex;
-    align-items: center;
-}
