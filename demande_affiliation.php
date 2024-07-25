@@ -5,7 +5,7 @@
     <div>
         <div id="hautpage">
             <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-                <img src="../img/DSC03731 1.jpg" class="img-fluid">
+                <img src="./img/DSC03731 1.jpg" class="img-fluid">
                 <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                     <p class="display-1 fw-bold text-white col-lg-8">Demande d’affiliation ou d’agrément fédéral</p>
                 </div>
@@ -82,7 +82,7 @@
                     </div>
                 </div>
                 <button type="button" class="btn text-white w-100 mt-5 py-3 fw-semibold" style="background-color: #D9D9D9;" data-bs-toggle="collapse" data-bs-target="#formCollapse" id="toggleButton">
-                    Suite du formulaire <img src="../img/downarrow.png" class="ms-2">
+                    Suite du formulaire <img src="./img/downarrow.png" class="ms-2">
                 </button>
             </form>
         </div>              
@@ -257,7 +257,7 @@
                             <div class="my-2">
                                 <a class="w-100 d-flex justify-content-between align-items-center border-bottom" data-bs-toggle="collapse" data-bs-target="#collapsegymniques" aria-expanded="false" aria-controls="collapseExample">
                                     <p class="p-2 m-0">Activités Gymniques d’Entretien et d’Expression</p>
-                                    <img src="../img/arrowup.png">
+                                    <img src="./img/arrowup.png">
                                 </a>
                                 <div class="my-4 collapse" id="collapsegymniques">
                                     <div class="flex-column">
@@ -265,20 +265,20 @@
                                         <div class="flex-column px-5 col-lg-4">
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Aéromodélisme</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Circuit training</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Gym santé</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                         </div>
@@ -289,7 +289,7 @@
                             <div class="my-2">
                                 <a class="w-100 d-flex justify-content-between align-items-center border-bottom" data-bs-toggle="collapse" data-bs-target="#collapsenature" aria-expanded="false" aria-controls="collapseExample">
                                     <p class="p-2 m-0">Activités de pleine nature</p>
-                                    <img src="../img/arrowdown.png">
+                                    <img src="./img/arrowdown.png">
                                 </a>
                                 <div class="my-4 collapse"  id="collapsenature">
                                     <div class="flex-column">
@@ -297,20 +297,20 @@
                                         <div class="flex-column px-5 col-lg-4">
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Aéromodélisme</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Circuit training</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Gym santé</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                         </div>
@@ -320,7 +320,7 @@
                             <div class="my-2">
                                 <a class="w-100 d-flex justify-content-between align-items-center border-bottom" data-bs-toggle="collapse" data-bs-target="#collapseArts" aria-expanded="false" aria-controls="collapseExample">
                                     <p class="p-2 m-0">Arts énergétiques</p>
-                                    <img src="../img/arrowdown.png">
+                                    <img src="./img/arrowdown.png">
                                 </a>
                                 <div class="my-4 collapse"  id="collapseArts">
                                     <div class="flex-column">
@@ -328,20 +328,20 @@
                                         <div class="flex-column px-5 col-lg-4">
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Aéromodélisme</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Circuit training</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Gym santé</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                         </div>
@@ -351,7 +351,7 @@
                             <div class="my-2">
                                 <a class="w-100 d-flex justify-content-between align-items-center border-bottom" data-bs-toggle="collapse" data-bs-target="#collapseopposition" aria-expanded="false" aria-controls="collapseExample">
                                     <p class="p-2 m-0">Jeux d'opposition</p>
-                                    <img src="../img/arrowdown.png">
+                                    <img src="./img/arrowdown.png">
                                 </a>
                                 <div class="my-4 collapse"  id="collapseopposition">
                                     <div class="flex-column">
@@ -359,20 +359,20 @@
                                         <div class="flex-column px-5 col-lg-4">
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Aéromodélisme</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Circuit training</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Gym santé</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                         </div>
@@ -382,7 +382,7 @@
                             <div class="my-2">
                                 <a class="w-100 d-flex justify-content-between align-items-center border-bottom" data-bs-toggle="collapse" data-bs-target="#collapsejeuxsportifs" aria-expanded="false" aria-controls="collapseExample">
                                     <p class="p-2 m-0">Jeux sportifs</p>
-                                    <img src="../img/arrowdown.png">
+                                    <img src="./img/arrowdown.png">
                                 </a>
                                 <div class="my-4 collapse"  id="collapsejeuxsportifs">
                                     <div class="flex-column">
@@ -390,20 +390,20 @@
                                         <div class="flex-column px-5 col-lg-4">
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Aéromodélisme</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Circuit training</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                             <div class="d-flex align-items-center my-3">
                                                 <h6 class="m-0">Gym santé</h6>
-                                                <a href="../" class="ms-auto">
-                                                    <img src="../img/redcross.png" class="img-fluid" style="max-width: 100px;">
+                                                <a href="./" class="ms-auto">
+                                                    <img src="./img/redcross.png" class="img-fluid" style="max-width: 100px;">
                                                 </a>
                                             </div>
                                         </div>
@@ -910,7 +910,7 @@
                             </div>
                             <button type="button" class="btn text-white col-lg-5 py-3 fw-semibold" style="background-color: #E3004F;" data-bs-toggle="collapse" data-bs-target="#formCollapse" id="toggleButton">
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img src="../img/whitedownload.png" class="me-3">
+                                    <img src="./img/whitedownload.png" class="me-3">
                                     <h6 class="mb-0">Télécharger un fichier (.jpg, .png, .pdf, .doc)</h6>
                                 </div>
                             </button>                                            
@@ -922,7 +922,7 @@
                             </div>
                             <button type="button" class="btn text-white col-lg-5 py-3 fw-semibold" style="background-color: #E3004F;" data-bs-toggle="collapse" data-bs-target="#formCollapse" id="toggleButton">
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img src="../img/whitedownload.png" class="me-3">
+                                    <img src="./img/whitedownload.png" class="me-3">
                                     <h6 class="mb-0">Télécharger un fichier (.jpg, .png, .pdf, .doc)</h6>
                                 </div>
                             </button>      
@@ -934,7 +934,7 @@
                             </div>
                             <button type="button" class="btn text-white col-lg-5 py-3 fw-semibold" style="background-color: #E3004F;" data-bs-toggle="collapse" data-bs-target="#formCollapse" id="toggleButton">
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img src="../img/whitedownload.png" class="me-3">
+                                    <img src="./img/whitedownload.png" class="me-3">
                                     <h6 class="mb-0">Télécharger un fichier (.jpg, .png, .pdf, .doc)</h6>
                                 </div>
                             </button>      
@@ -946,7 +946,7 @@
                             </div>
                             <button type="button" class="btn text-white col-lg-5 py-3 fw-semibold" style="background-color: #E3004F;" data-bs-toggle="collapse" data-bs-target="#formCollapse" id="toggleButton">
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img src="../img/whitedownload.png" class="me-3">
+                                    <img src="./img/whitedownload.png" class="me-3">
                                     <h6 class="mb-0">Télécharger un fichier (.jpg, .png, .pdf, .doc)</h6>
                                 </div>
                             </button>      
@@ -982,6 +982,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
 <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-    <img src="../img/Ellipse 19.png" id="ellipse">
+    <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>
