@@ -4,7 +4,7 @@
 <div class="content p-0" id="passhebdo">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/Toul _Ballon_Alcock012 1.jpg" class="img-fluid">
+            <img src="./img/Toul _Ballon_Alcock012 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Le Pass hebdo Sports pour Tous</p>
             </div>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="d-flex justify-content-between">
                     <div class="d-flex align-items-center">
-                        <img src="../img/cadenas.png">
+                        <img src="./img/cadenas.png">
                         <p class="fw-bold ms-3 mb-0">Paiement sécurisé</p>
                     </div>
                     <div class="col-lg-3 d-flex justify-content-end">
@@ -92,6 +92,6 @@
 <!-- footer -->
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

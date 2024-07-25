@@ -4,7 +4,7 @@
 <div class="content p-0" id="comite">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/AdobeStock_305465055 2.jpg" class="img-fluid">
+            <img src="./img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Les Comités Régionaux et Départementaux</p>
             </div>
@@ -38,10 +38,10 @@
                             <li>Téléphone : 00 00 00 00 00</li>
                         </ul>
                         <div class="d-flex justify-content-between col-xl-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -57,10 +57,10 @@
                             <li>Code postal : 00000</li>
                         </ul>
                         <div class="d-flex justify-content-between col-lg-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -77,10 +77,10 @@
                             <li>Téléphone : 00 00 00 00 00</li>
                         </ul>
                         <div class="d-flex justify-content-between col-xl-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -96,10 +96,10 @@
                             <li>Code postal : 00000</li>
                         </ul>
                         <div class="d-flex justify-content-between col-lg-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -116,10 +116,10 @@
                             <li>Téléphone : 00 00 00 00 00</li>
                         </ul>
                         <div class="d-flex justify-content-between col-xl-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -135,10 +135,10 @@
                             <li>Code postal : 00000</li>
                         </ul>
                         <div class="d-flex justify-content-between col-lg-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -155,10 +155,10 @@
                             <li>Téléphone : 00 00 00 00 00</li>
                         </ul>
                         <div class="d-flex justify-content-between col-xl-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -174,10 +174,10 @@
                             <li>Code postal : 00000</li>
                         </ul>
                         <div class="d-flex justify-content-between col-lg-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -194,10 +194,10 @@
                             <li>Téléphone : 00 00 00 00 00</li>
                         </ul>
                         <div class="d-flex justify-content-between col-xl-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -213,10 +213,10 @@
                             <li>Code postal : 00000</li>
                         </ul>
                         <div class="d-flex justify-content-between col-lg-10">
-                            <a href="../#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
+                            <a href="./#" id="btncontact" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-prim">
                                 <h6 class="fw-bold text-center my-3">Nous contacter</h6>
                             </a>
-                            <a href="../#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
+                            <a href="./#" id="btnsite" class="btn my-3 text-white shadow d-flex justify-content-center align-items-center col-lg-5 bg-thrid">
                                 <h6 class="fw-bold text-center my-3">Site internet</h6>
                             </a>
                         </div>
@@ -231,6 +231,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

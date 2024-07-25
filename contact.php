@@ -4,7 +4,7 @@
 <div class="content p-0" id="contact">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/AdobeStock_305465055 2.jpg" class="img-fluid">
+            <img src="./img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Contact</p>
             </div>
@@ -23,18 +23,18 @@
                 <h6>12, Place Georges Pompidou</h6>
                 <h6>93160 Noisy-le-Grand</h6>
                 <a class="btn col-lg-7 py-3 text-white shadow my-4" style="background-color: #0099DC">
-                    <img src="../img/envelop.png">
+                    <img src="./img/envelop.png">
                     <span class="fw-bold text-center ms-3">Nous contacter</span>
                 </a>
                 <hr class="my-5">
                 <h4 class="fw-bold">Venir en transport en commun</h4>
                 <div class="my-4">
-                    <img src="../img/1280px-Logo_RER_A 1.png" class="my-3">
+                    <img src="./img/1280px-Logo_RER_A 1.png" class="my-3">
                     <h6>Gare Noisy-le-Grand Mont d'Est</h6>
                     <h6>Sortie Gare routière</h6>
                 </div>
                 <div class="my-4">
-                    <img src="../img/bus-39488_960_720 1.png" class="my-3">
+                    <img src="./img/bus-39488_960_720 1.png" class="my-3">
                     <h6>Lignes 303 et 306</h6>
                     <h6>Arrêt Noisy-le-Grand Mont d'Est RER</h6>
                     <span>Pas de station de Vélib' ni de métro à proximité</span>
@@ -127,6 +127,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

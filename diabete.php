@@ -4,7 +4,7 @@
 <div class="content p-0" id="diabete">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/DeM-DiabetAction04 1.jpg" class="img-fluid">
+            <img src="./img/DeM-DiabetAction04 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8"> Activité physique et diabète</p>
             </div>
@@ -22,7 +22,7 @@
     </div> 
     <div id="imgoverlay" class="position-relative d-flex flex-column justify-content-around align-items-center text-center py-5 col-12">
         <div class="position-relative d-flex justify-content-center align-items-center text-center w-100 py-5">
-            <img src="../img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
+            <img src="./img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
             <div class="overlay position-absolute w-100 h-100"></div>
             <div id="overlaytext" class="text-white container-fluid d-flex flex-column justify-content-around align-items-center position-relative">
                 <div class="row col-10 mt-3 d-flex justify-content-center">
@@ -77,7 +77,7 @@
             </div>
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/DeM-DiabetAction33 1.jpg" class="img-fluid">
+                    <img src="./img/DeM-DiabetAction33 1.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
         <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/DeM-DiabetAction45 1.jpg" class="img-fluid">
+                    <img src="./img/DeM-DiabetAction45 1.jpg" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-6 flex-column p-3">
@@ -110,7 +110,7 @@
     </div>
     <div class="container mb-5 py-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center">
-            <img src="../img/2014 2.jpg" class="img-fluid w-100 h-100 position-absolute">
+            <img src="./img/2014 2.jpg" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>
             <div class="content col-lg-9 py-5 d-flex justify-content-around align-items-center flex-wrap">
                 <div class="col-lg-5 d-flex flex-column justify-content-around py-5">
@@ -130,14 +130,14 @@
         </div>
     </div>
     <div id="more" class="d-flex justify-content-center pt-5">
-        <img src="../img/graphisme 1(1).png" id="graphisme2">
+        <img src="./img/graphisme 1(1).png" id="graphisme2">
         <div class="row d-flex justify-content-around align-items-center col-12 container-fluid pt-xl-5">
             <p class="display-4 fw-bold text-center col-12">Pour aller plus loin</p>
             <div class="row col-12 d-flex justify-content-center py-4">
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../activites.php" class="card shadow-none text-center position-relative">
+                    <a href="./activites.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile nos missions 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile nos missions 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-6">Nos activités</h1>
                             </div>
@@ -145,9 +145,9 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../projet_federal.php" class="card shadow-none text-center position-relative">
+                    <a href="./projet_federal.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile projet fédéral 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile projet fédéral 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-6">Nos activités</h1>
                             </div>
@@ -155,9 +155,9 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../status_et_reglements.php" class="card shadow-none text-center position-relative">
+                    <a href="./status_et_reglements.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile organisation 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile organisation 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-6">Affilier son club</h1>
                             </div>
@@ -174,6 +174,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0" style="background-color: #F2F2F2;">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

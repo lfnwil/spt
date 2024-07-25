@@ -4,7 +4,7 @@
 <div class="content p-0" id="activites">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/abdo fessier 1.jpg" class="img-fluid">
+            <img src="./img/abdo fessier 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Nos activités physique et sports loisirs</p>
             </div>
@@ -22,9 +22,9 @@
         <div class="col-md-9">
             <div class="row d-flex justify-content-between">
                 <div class="col-md-6 flex-column justify-content-center my-3">
-                    <a class="btn w-100 bg-light d-flex justify-content-between align-items-center p-3 fw-bold" style="color: #0099DC;" data-bs-toggle="collapse" href="../#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
+                    <a class="btn w-100 bg-light d-flex justify-content-between align-items-center p-3 fw-bold" style="color: #0099DC;" data-bs-toggle="collapse" href="./#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
                         Pourquoi voulez-vous pratiquer une activité sportive ?
-                        <img src="../img/arrowdown.png">
+                        <img src="./img/arrowdown.png">
                     </a>
                     <div class="collapse multi-collapse bg-light p-3" id="multiCollapseExample1">
                         <div class="row d-flex align-items-center my-2">
@@ -74,7 +74,7 @@
                 <div class="col-md-6 flex-column justify-content-center my-3 ">
                     <a class="btn w-100 bg-light d-flex justify-content-between align-items-center p-3 fw-bold" style="color: #0099DC;" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">
                         Quelle type d’activité vous intéresse ?
-                        <img src="../img/arrowdown.png">
+                        <img src="./img/arrowdown.png">
                     </a>
                     <div class="collapse multi-collapse bg-light p-3" id="multiCollapseExample2">
                         <div class="row d-flex align-items-center my-2">
@@ -159,96 +159,96 @@
             <div class="d-flex justify-content-center" id="grid">
                 <div class="row col-12 mt-3 d-flex justify-content-center">
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card shadow-none text-center">
-                            <img src="../img/abdo fessier 2.jpg" class="card-img">
+                        <a href="./" class="card shadow-none text-center">
+                            <img src="./img/abdo fessier 2.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Abdo fessier</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card shadow-none d-flex justify-content-center align-items-center h-100">
-                            <img src="../img/aerobic training 1.jpg" class="card-img h-100 w-100 object-fit-cover">
+                        <a href="./" class="card shadow-none d-flex justify-content-center align-items-center h-100">
+                            <img src="./img/aerobic training 1.jpg" class="card-img h-100 w-100 object-fit-cover">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aerobic training</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card shadow-none text-center">
-                            <img src="../img/aeromodelisme.jpg" class="card-img">
+                        <a href="./" class="card shadow-none text-center">
+                            <img src="./img/aeromodelisme.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aéromodélisme</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/Aido 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/Aido 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aïdo</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/AIKI TAI DO 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/AIKI TAI DO 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aiki Tai Do</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/aikido 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/aikido 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aïkido</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/Aquabike 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/Aquabike 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aquabike</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/aquagym 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/aquagym 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Aquagym</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/athletisme 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/athletisme 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Athlétisme</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/Badminton 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/Badminton 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Badminton</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/ballon-suisse 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/ballon-suisse 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Ballon suisse</h1>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-sm-6 p-1 d-flex justify-content-center mb-2">
-                        <a href="../" class="card">
-                            <img src="../img/ballzen 1.jpg" class="card-img">
+                        <a href="./" class="card">
+                            <img src="./img/ballzen 1.jpg" class="card-img">
                             <div class="card-img-overlay d-flex justify-content-center align-items-center card-overlay">
                                 <h1 class="text-center col-lg-10">Ball zen</h1>
                             </div>
@@ -286,7 +286,7 @@
     </div>
     <div class="container my-5" id="imgoverlay">
         <div class="background-container d-flex justify-content-center py-5">
-            <img src="../img/AdobeStock_318547767 1.jpg" class="img-fluid w-100 h-100 position-absolute">
+            <img src="./img/AdobeStock_318547767 1.jpg" class="img-fluid w-100 h-100 position-absolute">
             <div class="background-filter"></div>
             <div class="content col-sm-9 py-5 text-center d-flex flex-column align-items-center">
                 <p class="display-4 text-white mt-lg-5">Besoin d'aide pour trouver une activité ?</p>
@@ -299,7 +299,7 @@
                 </div>
                 <button class="btn bg-white shadow p-4 position-relative shadow mt-3">
                     <div class="circle-container d-flex justify-content-center align-items-center">
-                        <img src="../img/Group 44.png" class="">
+                        <img src="./img/Group 44.png" class="">
                     </div>
                     <div class="col text-center mt-3">
                         <h1 class="mb-1">FAITES LE TEST !</h1>
@@ -316,6 +316,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

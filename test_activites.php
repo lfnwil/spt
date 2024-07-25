@@ -4,7 +4,7 @@
 <div class="content p-0" id="testactivite">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/AdobeStock_159472423 1.jpg"class="img-fluid">
+            <img src="./img/AdobeStock_159472423 1.jpg"class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Quelle activité est faite pour vous ?</p>
             </div>
@@ -126,14 +126,14 @@
         </form>
     </div>
     <div id="more" class="d-flex justify-content-center pt-5">
-        <img src="../img/graphisme 1(1).png" id="graphisme2">
+        <img src="./img/graphisme 1(1).png" id="graphisme2">
         <div class="row d-flex justify-content-around align-items-center col-12 container-fluid pt-xl-5">
             <p class="display-4 fw-bold text-center col-12">Pour aller plus loin</p>
             <div class="row col-12 d-flex justify-content-center py-4">
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../activites.php" class="card shadow-none text-center position-relative">
+                    <a href="./activites.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/nos_activites.jpg"class="img-fluid">
+                            <img src="./img/nos_activites.jpg"class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-6">Nos activités</h1>
                             </div>
@@ -141,9 +141,9 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../trouverunclub.php" class="card shadow-none text-center position-relative">
+                    <a href="./trouverunclub.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile trouver un club 1.jpg"class="img-fluid">
+                            <img src="./img/Tuile trouver un club 1.jpg"class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-6">Affilier son club</h1>
                             </div>
@@ -159,6 +159,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

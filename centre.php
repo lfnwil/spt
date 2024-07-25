@@ -4,7 +4,7 @@
 <div class="content p-0"  id="centre">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/centre-sport-activite-nature-lozere-04-1200x900 1.jpg" class="img-fluid">
+            <img src="./img/centre-sport-activite-nature-lozere-04-1200x900 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Les Comités Régionaux et Départementaux</p>
             </div>
@@ -34,7 +34,7 @@
             </div>
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/DeM-Kayak19 1.jpg" class="img-fluid">
+                    <img src="./img/DeM-Kayak19 1.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@
                                     <div class="card-body text-center d-flex justify-content-center py-lg-5">
                                         <div class="col-md-9 py-lg-5 container-fluid text-white">
                                             <p class="display-4 text-white">Témoignages</p>
-                                            <img src="../img/quotes.png" class="my-5">
+                                            <img src="./img/quotes.png" class="my-5">
                                             <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                             <h4 class="fw-bold">Hichem</h4>
                                         </div>
@@ -72,7 +72,7 @@
                                     <div class="card-body text-center d-flex justify-content-center py-lg-5">
                                         <div class="col-md-9 py-lg-5 container-fluid text-white">
                                             <p class="display-4 text-white">Témoignages</p>
-                                            <img src="../img/quotes.png" class="my-5">
+                                            <img src="./img/quotes.png" class="my-5">
                                             <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                             <h4 class="fw-bold">Hichem</h4>
                                         </div>
@@ -86,7 +86,7 @@
                                     <div class="card-body text-center d-flex justify-content-center py-lg-5">
                                         <div class="col-md-9 py-lg-5 container-fluid text-white">
                                             <p class="display-4 text-white">Témoignages</p>
-                                            <img src="../img/quotes.png" class="my-5">
+                                            <img src="./img/quotes.png" class="my-5">
                                             <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                             <h4 class="fw-bold">Hichem</h4>
                                         </div>
@@ -111,7 +111,7 @@
         <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
             <div class="col-sm-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/abdo fessier 3.jpg" class="img-fluid">
+                    <img src="./img/abdo fessier 3.jpg" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-6 flex-column p-3">
@@ -123,17 +123,17 @@
         </div>
     </div>
     <div id="downloadcards" class="d-flex justify-content-center mt-xl-3 my-md-0 px-3 pt-3 pt-xl-5 pt-sm-2">
-        <img src="../img/graphisme 1(1).png" id="graphisme2">
+        <img src="./img/graphisme 1(1).png" id="graphisme2">
         <div class="row col-12 mt-3 d-flex justify-content-center pt-5">
             <p class="display-4 text-center my-5">Documents liés</p>
             <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Composition des instances dirigeantes</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -143,10 +143,10 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Procès-Verbal de la précédente AG</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-center text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -156,10 +156,10 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Composition des instances dirigeantes</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-center text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -169,10 +169,10 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Procès-Verbal de la précédente AG</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-center text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -186,7 +186,7 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0" style="background-color: #F2F2F2;">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 
 <?php include 'footer.php'; ?>

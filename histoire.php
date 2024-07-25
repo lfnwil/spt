@@ -4,7 +4,7 @@
 <div class="content p-0" id="histoire">
     <div id="page-header">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/1967 1.jpg" class="img-fluid">
+            <img src="./img/1967 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">L’histoire de notre Fédération</p>
             </div>
@@ -40,14 +40,14 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1953 1.jpg" class="img-fluid mb-3">
+                <img src="./img/1953 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1962 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1962 1.jpg" class="img-fluid mb-3">
+                <img src="./img/1962 1.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
                 <p id="bgannee" class="col-11">1962</p>
@@ -70,14 +70,14 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1953 1.jpg" class="img-fluid mb-3">
+                <img src="./img/1953 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1967 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
+                <img src="./img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
                 <p id="bgannee" class="col-11">1967</p>
@@ -100,14 +100,14 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1968 1.jpg" class="img-fluid mb-3">
+                <img src="./img/1968 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1973 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
+                <img src="./img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
                 <p id="bgannee" class="col-11">1973</p>
@@ -130,14 +130,14 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1979 1.jpg" class="img-fluid mb-3">
+                <img src="./img/1979 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="imgtext" class="container-fluid year-1983 d-flex justify-content-center my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
+                <img src="./img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
                 <p id="bgannee" class="col-11">1983</p>
@@ -160,14 +160,14 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/2009 1.jpg" class="img-fluid mb-3">
+                <img src="./img/2009 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div> 
     <div id="imgtext" class="container-fluid year-2014 d-flex justify-content-center  my-4">
         <div class="row d-flex col-md-9">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/1967 2.jpg" class="img-fluid mb-3">
+                <img src="./img/1967 2.jpg" class="img-fluid mb-3">
             </div>
             <div class="col-lg-6 flex-column">
                 <p id="bgannee" class="col-11">2014</p>
@@ -192,19 +192,19 @@
                 </div>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../img/2020 1.jpg" class="img-fluid mb-3">
+                <img src="./img/2020 1.jpg" class="img-fluid mb-3">
             </div>
         </div>
     </div>
     <div id="more" class="d-flex justify-content-center pt-5">
-        <img src="../img/graphisme 1(1).png" id="graphisme2">
+        <img src="./img/graphisme 1(1).png" id="graphisme2">
         <div class="row d-flex justify-content-around align-items-center col-12 container-fluid pt-xl-5">
             <p class="display-4 fw-bold text-center col-12">Pour aller plus loin</p>
             <div class="row col-12 d-flex justify-content-center py-4">
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
                     <a href="#" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile nos missions 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile nos missions 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-8">Nos missions</h1>
                             </div>
@@ -212,9 +212,9 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../projet_federal.php" class="card shadow-none text-center position-relative">
+                    <a href="./projet_federal.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile projet fédéral 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile projet fédéral 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-8">Projet fédéral</h1>
                             </div>
@@ -222,9 +222,9 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-sm-6 my-4 d-flex justify-content-center">
-                    <a href="../status_et_reglements.php" class="card shadow-none text-center position-relative">
+                    <a href="./status_et_reglements.php" class="card shadow-none text-center position-relative">
                         <div class="card-body p-0 text-white d-flex justify-content-center flex-column align-items-center">
-                            <img src="../img/Tuile organisation 1.jpg" class="img-fluid">
+                            <img src="./img/Tuile organisation 1.jpg" class="img-fluid">
                             <div class="overlay-text position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
                                 <h1 class="text-white col-lg-8">Organisation</h1>
                             </div>
@@ -240,6 +240,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

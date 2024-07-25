@@ -4,7 +4,7 @@
 <div class="content p-0" id="roadtour">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/20230722_153748 1.jpg" class="img-fluid">
+            <img src="./img/20230722_153748 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Road Tour Sports pour Tous</p>
             </div>
@@ -20,7 +20,7 @@
             <h6>Petits et grands sont invités à s'initier et à découvrir de nombreuses activités, connues ou moins connues pour trouver l'activité adaptée à leurs envies. <strong> Un seul objectif : que le sport fasse partie du quotidien de plus de Français !</strong></h6>
         </div>
     </div>
-    <img src="../img/Group 47.jpg" class="img-fluid position-absolute">
+    <img src="./img/Group 47.jpg" class="img-fluid position-absolute">
     <div id="textimgbtn" class="d-flex justify-content-center p-lg-5 position-relative">
         <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
             <div class="col-lg-6 flex-column p-3">
@@ -34,7 +34,7 @@
             </div>
             <div class="col-lg-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/medias 1.jpg" class="img-fluid">
+                    <img src="./img/medias 1.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="row d-flex justify-content-between align-items-center col-md-10 container-fluid">
             <div class="col-lg-6 d-flex justify-content-center p-3">
                 <div class="">
-                    <img src="../img/roadtour.png" class="img-fluid">
+                    <img src="./img/roadtour.png" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-6 flex-column p-3">
@@ -62,7 +62,7 @@
         </div>
     </div> 
     <div class="d-flex justify-content-center p-3 position-relative">
-        <img src="../img/fsdf 1.jpg" class="radius-20 img-fluid">
+        <img src="./img/fsdf 1.jpg" class="radius-20 img-fluid">
     </div>
     <div class="container-fluid d-flex justify-content-center p-lg-5">
         <div class="row justify-content-center py-5 col-md-9 container-fluid" id="roadbook">
@@ -99,16 +99,16 @@
         </div>
     </div>
     <div class="d-flex justify-content-center p-5" id="carte">
-        <img src="../img/carte_france.jpg" class="radius-20 img-fluid position-absolute col-md-9 col-11">
+        <img src="./img/carte_france.jpg" class="radius-20 img-fluid position-absolute col-md-9 col-11">
     </div>
-    <img src="../img/Ellipse 23.png" class="col-12 img-fluid position-relative">
+    <img src="./img/Ellipse 23.png" class="col-12 img-fluid position-relative">
     <div id="evenements" class="d-flex justify-content-center pt-md-5 bg-f2">
         <div class="row d-flex justify-content-around align-items-center col-12 container-fluid pt-xl-5">
             <p class="display-4 fw-bold text-center col-12 pt-5">3 évènements</p>
             <div class="row col-12 d-flex justify-content-center py-4">
                 <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
                     <div class="h-100 d-flex flex-column">
-                        <img src="../img/Tuile nos missions 1.jpg" class="radius-15 w-100">
+                        <img src="./img/Tuile nos missions 1.jpg" class="radius-15 w-100">
                         <div class="my-3 col-8">
                             <h4 class="fw-bold">Bindernheim (67) avec le Comité Régional Sports pour Tous Grand-Est</h4>
                             <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
                     <div class="h-100 d-flex flex-column">
-                        <img src="../img/Tuile projet fédéral 1.jpg" class="radius-15 w-100">
+                        <img src="./img/Tuile projet fédéral 1.jpg" class="radius-15 w-100">
                         <div class="my-3 col-8">
                             <h4 class="fw-bold">Tinqueux (51) avec le Comité Régional Sports pour Tous Grand-Est & Gymmania Tinqueux</h4>
                             <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="col-xl-3 col-sm-6 mt-4 d-flex justify-content-center">
                     <div class="h-100 d-flex flex-column">
-                        <img src="../img/Tuile organisation 1.jpg" class="radius-15 w-100">
+                        <img src="./img/Tuile organisation 1.jpg" class="radius-15 w-100">
                         <div class="my-3 col-8">
                             <h4 class="fw-bold">Reims (51) avec le Comité Régional Sports pour Tous Grand-Est</h4>
                             <h6 class="my-3">Initiations aux activités multisports et promotion Sports pour Tous</h6>
@@ -145,6 +145,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

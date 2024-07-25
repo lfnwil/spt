@@ -4,7 +4,7 @@
 <div class="content p-0" id="FAQaffiliation">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/AdobeStock_305465055 2.jpg" class="img-fluid">
+            <img src="./img/AdobeStock_305465055 2.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">Pourquoi affilier votre Club ?</p>
             </div>
@@ -18,7 +18,7 @@
             <p class="display-4">Pourquoi affilier votre Club ?</p>
             <h6 class="my-4 fw-bold text-prim">Association sportive, mettez toutes les chances de votre côté pour réussir le pari de la santé, du bien-être et de l’intégration sociale par le sport loisir. </h6>
             <a class="btn col-lg-6 py-3 text-white shadow" style="background-color: #E3004F;">
-                <img src="../img/Vector(14).png" class="me-3">
+                <img src="./img/Vector(14).png" class="me-3">
                 <span class="fw-bold text-center">Flyer 12 raisons de s’affilier - 2023-2024 (.pdf)</span>
             </a>
         </div>
@@ -200,7 +200,7 @@
         <div class="col-lg-10 d-flex flex-column flex-sm-row justify-content-around">
             <div class="col-md-6 d-flex justify-content-center mb-4 mb-md-0">
                 <div class="d-flex flex-column align-items-center col-10 col-md-8">
-                    <img src="../img/info.png" class="img-fluid">
+                    <img src="./img/info.png" class="img-fluid">
                     <h4 class="my-4">Téléchargez le présensation de la Fédération Française Sports pour Tous</h4>
                     <a class="btn col-lg-6 py-3 bg-white shadow" style="color: #E3004F;">
                         <span class="fw-bold text-center">Télécharger</span>
@@ -209,7 +209,7 @@
             </div>
             <div class="col-md-6 d-flex justify-content-center">
                 <div class="d-flex flex-column align-items-center col-10 col-md-8">
-                    <img src="../img/info.png" class="my-4 img-fluid">
+                    <img src="./img/info.png" class="my-4 img-fluid">
                     <h4>Service Licences & Affiliations</h4>
                     <h4>licences@sportspourtous.org</h4>
                     <h4>01 41 67 50 96</h4>
@@ -218,17 +218,17 @@
         </div>
     </div>  
     <div id="downloadcards" class="d-flex justify-content-center my-md-0 px-3 pt-3 pt-xl-5 pt-sm-2">
-        <img src="../img/graphisme 1(1).png" id="graphisme2">
+        <img src="./img/graphisme 1(1).png" id="graphisme2">
         <div class="row col-12 mt-3 d-flex justify-content-center pt-5">
             <p class="display-4 text-center my-5">Documents liés</p>
             <div class="col-xl-3 col-sm-6 mb-4 d-flex justify-content-center">
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Composition des instances dirigeantes</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -238,10 +238,10 @@
                 <div class="card py-lg-4 shadow-none text-center col-lg-11 h-100">
                     <div class="card-body text-white d-flex flex-column align-items-center justify-content-between">
                         <div class="col-lg-7">
-                            <img src="../img/whitedownload.png" class="mb-3">
+                            <img src="./img/whitedownload.png" class="mb-3">
                             <h6 class="fw-bold">Procès-Verbal de la précédente AG</h6>
                         </div>
-                        <a href="../#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
+                        <a href="./#" class="btn my-3 bg-white shadow d-flex justify-content-center col-lg-10">
                             <p class="h6 fw-bold text-center text-red my-2">Télécharger</p>
                         </a>
                     </div>
@@ -255,6 +255,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0 bg-f2">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

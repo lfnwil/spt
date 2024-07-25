@@ -4,7 +4,7 @@
 <div class="content p-0" id="CQP">
     <div id="hautpage">
         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-            <img src="../img/TC14997-Modifier 1.jpg" class="img-fluid">
+            <img src="./img/TC14997-Modifier 1.jpg" class="img-fluid">
             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                 <p class="display-1 fw-bold text-white col-lg-8">CQP Animateur de Loisir Sportif (ALS)</p>
             </div>
@@ -35,14 +35,14 @@
                 </div>
                 <div class="col-sm-6 d-flex justify-content-center p-3">
                     <div class="">
-                        <img src="../img/TC18742 1.jpg" class="img-fluid">
+                        <img src="./img/TC18742 1.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>
         </div>
         <div id="imgoverlay" class="position-relative d-flex flex-column justify-content-around align-items-center text-center py-5 col-12">
             <div class="position-relative d-flex justify-content-center align-items-center text-center w-100 py-5">
-                <img src="../img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
+                <img src="./img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
                 <div class="overlay position-absolute w-100 h-100"></div>
                 <div id="overlaytext" class="text-white container-fluid d-flex flex-column justify-content-around align-items-center position-relative py-5">
                     <p class="display-4 text-white mt-lg-5">Le CQP ALS en chiffres</p>
@@ -95,7 +95,7 @@
             <div class="row d-flex justify-content-between align-items-center col-xl-10 container-fluid">
                 <div class="col-sm-6 d-flex justify-content-center p-3">
                     <div class="">
-                        <img src="../img/Tuile nos missions 2.jpg" class="img-fluid">
+                        <img src="./img/Tuile nos missions 2.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm-6 flex-column p-3">
@@ -1366,7 +1366,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5">
+                                                <img src="./img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1380,7 +1380,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5">
+                                                <img src="./img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1394,7 +1394,7 @@
                                         <div class="card-body text-center text-white d-flex justify-content-center py-lg-5">
                                             <div class="col-md-9 py-lg-5 container-fluid">
                                                 <p class="display-4 fw-bold text-white fw-bold">Témoignages</p>
-                                                <img src="../img/quotes.png" class="my-5">
+                                                <img src="./img/quotes.png" class="my-5">
                                                 <h4 class="mb-5"><em>Mon séjour à Saint-Énimie m'a permis de découvrir plusieurs activités de plein air que je ne connaissais pas comme la via ferrata en montagne ou le speedball. Ce séjour m'a aussi permis de faire des rencontres et de changer ma perception du sport. Maintenant, je perçois le sport différemment,plus dans une recherche de sociabilisation que de perfection.</em></h4>
                                                 <h4 class="fw-bold">Hichem</h4>
                                             </div>
@@ -1422,6 +1422,6 @@
 <!-- footer -->             
 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-        <img src="../img/Ellipse 19.png" id="ellipse">
+        <img src="./img/Ellipse 19.png" id="ellipse">
 
 <?php include 'footer.php'; ?>

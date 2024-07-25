@@ -7,7 +7,7 @@
         <title>index</title>  
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
 
@@ -23,8 +23,8 @@
                     <div class="page-header-content d-flex justify-content-sm-between justify-content-around align-items-center text-center p-5 container-fluid flex-wrap">
                         <div class="d-flex">
                             <div class="navbar-brand flex-1 flex-md-0">
-                                <a href="../projet_federal.php" class="d-inline-flex align-items-center">
-                                    <img src="../img/logo.png" id="logo">
+                                <a href="./projet_federal.php" class="d-inline-flex align-items-center">
+                                    <img src="./img/logo.png" id="logo">
                                 </a>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
                             <div class="btn-group d-flex flex-wrap align-items-center">
                                 <div class="btn-group dropstart d-flex align-items-center">
                                     <button type="button" class="btn bg-transparent border-0 text-white mx-2" data-bs-toggle="dropdown">
-                                        <img src="../img/loupe.png">
+                                        <img src="./img/loupe.png">
                                     </button>
                                     <div class="dropdown-menu dropdown-menu-center bg-transparent border-0" data-popper-placement="left-start">
                                         <div class="form-control-feedback form-control-feedback-start d-flex align-items-center">
@@ -43,20 +43,20 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
-                                    <img src="../img/panier.png" class="mx-auto mb-2">
+                                <a href="./#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="./img/panier.png" class="mx-auto mb-2">
                                     <span class="small text-white fw-bold">Boutique</span>
                                 </a>
-                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
-                                    <img src="../img/france.png" class="mx-auto mb-2">
+                                <a href="./#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="./img/france.png" class="mx-auto mb-2">
                                     <span class="small col-lg-8 text-white fw-bold">Trouver un club</span>
                                 </a>
-                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
-                                    <img src="../img/Group 41.png" class="mx-auto mb-2">
+                                <a href="./#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="./img/Group 41.png" class="mx-auto mb-2">
                                     <span class="small text-white fw-bold">Extranet</span>
                                 </a>
-                                <a href="../#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
-                                    <img src="../img/Group 42.png" class="mx-auto mb-2">
+                                <a href="./#" class="d-flex flex-column mx-2 align-items-center justify-content-around">
+                                    <img src="./img/Group 42.png" class="mx-auto mb-2">
                                     <span class="small col-lg-8 text-white fw-bold">Espace licencié</span>
                                 </a>
                             </div>
@@ -64,7 +64,7 @@
                         <button  type="button" class="px-3 py-1 bg-white border-0 d-flex align-items-center justify-content-center text-body radius-15" data-bs-toggle="modal" data-bs-target="#exampleModal">
                             <div class="d-flex align-items-center">
                                 <p class="fw-semibold m-2" style="color: #0E3083;">Menu</p>
-                                <img src="../img/burger icon(1).png" class="ms-3">
+                                <img src="./img/burger icon(1).png" class="ms-3">
                             </div>
                         </button>
                         
@@ -75,67 +75,67 @@
                                         <div class="modal-header d-flex justify-content-end border-0 p-3">
                                             <a class="btn bg-transparent border-0 my-3" data-bs-dismiss="modal">
                                                 <span class="mx-2">Fermer le menu</span>
-                                                <img src="../img/redcross.png">
+                                                <img src="./img/redcross.png">
                                             </a>
                                         </div>
                                         <div class="modal-body d-flex flex-wrap p-0 justify-content-around align-items-center container-fluid">
                                             <div class="d-sm-flex container-fluid col-xl-5 col-md-12 p-0 m-0 justify-content-around align-items-center">
                                                 <div class="text-sm-start flex-column d-flex p-0 justify-content-between align-items-center">
                                                     <div class="">
-                                                        <a href="../"><h3>La fédération</h3></a>
+                                                        <a href="./"><h3>La fédération</h3></a>
                                                         <ul class="niv1menu list-unstyled my-3 ms-xl-4">
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseQuisommesnous" aria-expanded="false" aria-controls="collapseQuisommesnous">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapseQuisommesnous" aria-expanded="false" aria-controls="collapseQuisommesnous">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i> Qui sommes nous ?
                                                                 </a>
                                                                 <ul id="collapseQuisommesnous" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Qui sommes nous ?</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Qui sommes nous ?</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseMissions" aria-expanded="false" aria-controls="collapseMissions">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapseMissions" aria-expanded="false" aria-controls="collapseMissions">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i> Nos missions
                                                                 </a>
                                                                 <ul id="collapseMissions" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Santé</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Santé</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseOrganisation" aria-expanded="false" aria-controls="collapseOrganisation">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapseOrganisation" aria-expanded="false" aria-controls="collapseOrganisation">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i> Organisation
                                                                 </a>
                                                                 <ul id="collapseOrganisation" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Organisation</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Organisation</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Projet fédéral</a>
+                                                                <a href="./projet_federal.php">Projet fédéral</a>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="">
-                                                        <a href="../demande_affiliation.php"><h3>Affilier son club</h3></a>
+                                                        <a href="./demande_affiliation.php"><h3>Affilier son club</h3></a>
                                                         <ul class="niv1menu list-unstyled my-3 ms-xl-4">
                                                             <li>
-                                                                <a href="../projet_federal.php">Pourquoi nous rejoindre ?</a>
+                                                                <a href="./projet_federal.php">Pourquoi nous rejoindre ?</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Comment nous rejoindre ?</a>
+                                                                <a href="./projet_federal.php">Comment nous rejoindre ?</a>
                                                             </li>
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseServices" aria-expanded="false" aria-controls="collapseServices">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapseServices" aria-expanded="false" aria-controls="collapseServices">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i>Nos services ?
                                                                 </a>
                                                                 <ul id="collapseServices" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Santé</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Santé</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
@@ -144,59 +144,59 @@
                                                 <div id="verticaldivider" class="d-none d-xxl-block mx-5"></div>
                                                 <div class="text-sm-start flex-column p-0 justify-content-between align-items-center">
                                                     <div class="">
-                                                        <a href="../"><h3>Pratiquer</h3></a>
+                                                        <a href="./"><h3>Pratiquer</h3></a>
                                                         <ul class="niv1menu list-unstyled my-3 ms-xl-4 mx-4">
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapseActivites" aria-expanded="false" aria-controls="collapseActivites">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapseActivites" aria-expanded="false" aria-controls="collapseActivites">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i>Nos activités
                                                                 </a>
                                                                 <ul id="collapseActivites" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../activites.php"><h6>Liste des activités</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./activites.php"><h6>Liste des activités</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                             <li>
-                                                                <a href="../test_activite.php">Quelle activité est faite pour vous ?</a>
+                                                                <a href="./test_activite.php">Quelle activité est faite pour vous ?</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../trouveruncblub.php">Trouver un club</a>
+                                                                <a href="./trouveruncblub.php">Trouver un club</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../test_forme.php">Testez votre forme</a>
+                                                                <a href="./test_forme.php">Testez votre forme</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">L’offre d’adhésion</a>
+                                                                <a href="./projet_federal.php">L’offre d’adhésion</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">La licence Sport Pour Tous</a>
+                                                                <a href="./projet_federal.php">La licence Sport Pour Tous</a>
                                                             </li>
                                                             <li class="accordion-item">
-                                                                <a class="accordion-header" href="../#" data-bs-toggle="collapse" data-bs-target="#collapsePASS" aria-expanded="false" aria-controls="collapsePASS">
+                                                                <a class="accordion-header" href="./#" data-bs-toggle="collapse" data-bs-target="#collapsePASS" aria-expanded="false" aria-controls="collapsePASS">
                                                                     <i class="me-2 fas fa-chevron-down toggle-icon"></i>Les PASS
                                                                 </a>
                                                                 <ul id="collapsePASS" class="niv2menu accordion-collapse collapse list-unstyled my-3 px-3">
-                                                                    <li><a class="dropdown-item my-2" href="../passhebdo.php"><h6>Acheter un PASS</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Sport Socio-éducatif</h6></a></li>
-                                                                    <li><a class="dropdown-item my-2" href="../#"><h6>Nos publics</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./passhebdo.php"><h6>Acheter un PASS</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Sport Socio-éducatif</h6></a></li>
+                                                                    <li><a class="dropdown-item my-2" href="./#"><h6>Nos publics</h6></a></li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="">
-                                                        <a href="../"><h3>Evènements</h3></a>
+                                                        <a href="./"><h3>Evènements</h3></a>
                                                         <ul class="niv1menu list-unstyled my-3 ms-xl-4">
                                                             <li>
-                                                                <a href="../projet_federal.php">Road Tour Sports pour Tous</a>
+                                                                <a href="./projet_federal.php">Road Tour Sports pour Tous</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Semaine de la Forme</a>
+                                                                <a href="./projet_federal.php">Semaine de la Forme</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Paris 2024</a>
+                                                                <a href="./projet_federal.php">Paris 2024</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Téléthon</a>
+                                                                <a href="./projet_federal.php">Téléthon</a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -206,43 +206,43 @@
                                             <div class="d-sm-flex container-fluid col-xl-5 col-md-12 p-0 m-0 justify-content-around align-items-center">
                                                 <div class="text-sm-start flex-column p-0 justify-content-between align-items-center">
                                                     <div class="">
-                                                        <a href="../"><h3>Se former</h3></a>
+                                                        <a href="./"><h3>Se former</h3></a>
                                                         <ul class="niv1menu list-unstyled my-3 ms-xl-4"> 
                                                             <li>
-                                                                <a href="../trouver_une_formation.php">Nos formations</a>
+                                                                <a href="./trouver_une_formation.php">Nos formations</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../trouveruneformation.php">Trouver une formation</a>
+                                                                <a href="./trouveruneformation.php">Trouver une formation</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../CQP.php">CQP Animateur de Loisir Sportif</a>
+                                                                <a href="./CQP.php">CQP Animateur de Loisir Sportif</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">BP JPES Activités Physiques pour Tous</a>
+                                                                <a href="./projet_federal.php">BP JPES Activités Physiques pour Tous</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Activités Physiques Sur Prescriptions Médicale</a>
+                                                                <a href="./projet_federal.php">Activités Physiques Sur Prescriptions Médicale</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Encadrant bénévole</a>
+                                                                <a href="./projet_federal.php">Encadrant bénévole</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Formations Professionnelles Continues</a>
+                                                                <a href="./projet_federal.php">Formations Professionnelles Continues</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Métiers du développement</a>
+                                                                <a href="./projet_federal.php">Métiers du développement</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Animateur de Loisir Sportif</a>
+                                                                <a href="./projet_federal.php">Animateur de Loisir Sportif</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">Métiers de la formation</a>
+                                                                <a href="./projet_federal.php">Métiers de la formation</a>
                                                             </li>
                                                             
                                                         </ul>
                                                     </div>
                                                     <div class="col-lg-10">
-                                                        <a href="../"><h3>Sports pour Tous le Mag Contact</h3></a>
+                                                        <a href="./"><h3>Sports pour Tous le Mag Contact</h3></a>
                                                     </div>
                                                 </div>
                                                 <div id="verticaldivider" class="d-none d-xxl-block mx-3"></div>
@@ -250,26 +250,26 @@
                                                     <div class="">
                                                         <ul class="niv3menu list-unstyled my-3"> 
                                                             <li>
-                                                                <a href="../projet_federal.php">Vidéothèque</a>
+                                                                <a href="./projet_federal.php">Vidéothèque</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../trouveruneformation.php">Espace presse</a>
+                                                                <a href="./trouveruneformation.php">Espace presse</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">FAQ</a>
+                                                                <a href="./projet_federal.php">FAQ</a>
                                                             </li>
                                                             <li>
-                                                                <a href="../projet_federal.php">FAQ Sites Structures</a>
+                                                                <a href="./projet_federal.php">FAQ Sites Structures</a>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="">
                                                         <ul class="niv2menu list-unstyled my-3">
-                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Mentions légales</h6></a></li>
-                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Plan du site</h6></a></li>
-                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Signalements</h6></a></li>
-                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Nos partenaires</h6></a></li>
-                                                            <li><a class="dropdown-item my-2" href="../#"><h6>Actualités</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="./#"><h6>Mentions légales</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="./#"><h6>Plan du site</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="./#"><h6>Signalements</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="./#"><h6>Nos partenaires</h6></a></li>
+                                                            <li><a class="dropdown-item my-2" href="./#"><h6>Actualités</h6></a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -287,7 +287,7 @@
                 <div class="content p-0" id="index">
                     <div id="hautpage">
                         <div id="bandeau" class="position-relative d-flex justify-content-center align-items-center text-center">
-                            <img src="../img/AdobeStock_267519882 1.jpg" id="background" class="img-fluid">
+                            <img src="./img/AdobeStock_267519882 1.jpg" id="background" class="img-fluid">
                             <div class="overlay-text position-absolute w-75 h-100 d-flex justify-content-center align-items-center">
                                 <p class="display-1 fw-bold text-white col-lg-8">Ouvrir le sport à tous…Sans exception</p>
                             </div>
@@ -295,7 +295,7 @@
                     </div>
                     <div id="imgoverlay" class="position-relative d-flex flex-column justify-content-around align-items-center text-center col-12">
                         <div class="position-relative d-flex justify-content-center align-items-center text-center w-100 py-5">
-                            <img src="../img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
+                            <img src="./img/AdobeStock_615798489 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
                             <div class="overlay position-absolute w-100 h-100"></div>
                             <div id="overlaytext" class="text-white container-fluid d-flex flex-column justify-content-around align-items-center position-relative py-sm-5">
                                 <p class="display-4 text-white mt-lg-5">Encourageons la pratique sportive</p>
@@ -304,7 +304,7 @@
                                     <div class="col-xl-3 col-sm-6 mb-4">
                                         <div class="card p-3 shadow-none text-center h-100">
                                             <div class="card-body text-white d-flex flex-column align-items-center justify-content-around">
-                                                <img src="../img/icon_licencies.png">
+                                                <img src="./img/icon_licencies.png">
                                                 <p class="display-4 text-white my-2">140 000</h1>
                                                 <h5 class="fw-bold">LICENCIES</h5>
                                             </div>
@@ -313,7 +313,7 @@
                                     <div class="col-xl-3 col-6 mb-4">
                                         <div class="card p-3 shadow-none text-center h-100">
                                             <div class="card-body text-white d-flex flex-column align-items-center justify-content-around">
-                                                <img src="../img/icon_drapeau.png">
+                                                <img src="./img/icon_drapeau.png">
                                                 <p class="display-4 text-white my-2">2 200</h1>
                                                 <h5 class="fw-bold">CLUBS</h5>
                                             </div>
@@ -322,7 +322,7 @@
                                     <div class="col-xl-3 col-6 mb-4">
                                         <div class="card p-3 shadow-none text-center h-100">
                                             <div class="card-body text-white d-flex flex-column align-items-center justify-content-around">
-                                                <img src="../img/icon_groupe.png">
+                                                <img src="./img/icon_groupe.png">
                                                 <p class="display-4 text-white my-2">5 200</h1>
                                                 <h5 class="fw-bold">Animateurs</h5>
                                             </div>
@@ -331,7 +331,7 @@
                                     <div class="col-xl-3 col-6 mb-4">
                                         <div class="card p-3 shadow-none text-center h-100">
                                             <div class="card-body text-white d-flex flex-column align-items-center justify-content-around">
-                                                <img src="../img/icon_chaussures.png">
+                                                <img src="./img/icon_chaussures.png">
                                                 <p class="display-4 text-white my-2">150</h1>
                                                 <h5 class="fw-bold">Activités</h5>
                                             </div>
@@ -340,11 +340,11 @@
                                     <div class="d-flex justify-content-around flex-wrap col-6 p-3">
                                         <a href="#" class="btn col-lg-5 col-12 bg-white py-3 text-white shadow d-flex align-items-center justify-content-around m-3" style="background-color: #0099DC" data-bs-toggle="tab" data-bs-target="#fill-tabpanel-1">
                                             <h6 class="text-center m-0 fw-bold" style="color: #0E3083;">Découvrir la Fédération</h6>
-                                            <img src="../img/arrowright.png">
+                                            <img src="./img/arrowright.png">
                                         </a>
                                         <a href="#" class="btn col-lg-5 col-12 py-3 text-white shadow d-flex align-items-center justify-content-around m-3" style="background-color: #0099DC" data-bs-toggle="tab" data-bs-target="#fill-tabpanel-1">
                                             <h6 class="text-center m-0 fw-bold">Nos missions</h6>
-                                            <img src="../img/arrowright.png">
+                                            <img src="./img/arrowright.png">
                                         </a>
                                     </div>
                                 </div>
@@ -359,43 +359,43 @@
                                 <div class="d-flex flex-nowrap overflow-auto">
                                     <div class="col-xl-6 col-md-8 col-12 p-4 flex-shrink-0">
                                         <div class="card p-0 shadow d-flex flex-column h-100">
-                                            <img src="../img/AdobeStock_615798489 1.jpg" class="img-fluid h-50">
+                                            <img src="./img/AdobeStock_615798489 1.jpg" class="img-fluid h-50">
                                             <div class="card-body px-5 pt-4 pb-5">
                                                 <p class="fw-bold m-0">02.08.2023</p>
                                                 <h2 class="fw-bold my-3">Animateurs et éducateurs sportifs Déclarez votre activité !</h2>
                                                 <h6 class="m-0">Vous êtes animateurs ou éducateurs sportifs ?</h6>
                                                 <h6 class="mb-4">Déclarez votre activité en ligne et obtenez votre carte professionnelle !</h6>
-                                                <a href="#" class="fw-bold">Lire la suite <img src="../img/arrowright.png" class="ms-2"></a>
+                                                <a href="#" class="fw-bold">Lire la suite <img src="./img/arrowright.png" class="ms-2"></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-md-5 col-9 p-4 flex-shrink-0">
                                         <div class="card p-0 shadow d-flex flex-column h-100 h-100">
-                                            <img src="../img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
+                                            <img src="./img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
                                             <div class="card-body px-lg-5 pt-4 pb-5">
                                                 <p class="fw-bold m-0">02.08.2023</p>
                                                 <h2 class="fw-bold my-3">J-10 avant la semaine de la forme 2023 !</h2>
-                                                <a href="#" class="fw-bold">Lire la suite <img src="../img/arrowright.png" class="ms-2"></a>
+                                                <a href="#" class="fw-bold">Lire la suite <img src="./img/arrowright.png" class="ms-2"></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-md-5 col-9 p-4 flex-shrink-0">
                                         <div class="card p-0 shadow d-flex flex-column h-100">
-                                            <img src="../img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
+                                            <img src="./img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
                                             <div class="card-body px-lg-5 pt-4 pb-5">
                                                 <p class="fw-bold m-0">02.08.2023</p>
                                                 <h2 class="fw-bold my-3">J-10 avant la semaine de la forme 2023 !</h2>
-                                                <a href="#" class="fw-bold">Lire la suite <img src="../img/arrowright.png" class="ms-2"></a>
+                                                <a href="#" class="fw-bold">Lire la suite <img src="./img/arrowright.png" class="ms-2"></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-md-5 col-9 p-4 flex-shrink-0">
                                         <div class="card p-0 shadow d-flex flex-column h-100">
-                                            <img src="../img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
+                                            <img src="./img/AdobeStock_121166552 1.jpg" class="img-fluid h-50">
                                             <div class="card-body px-lg-5 pt-4 pb-5">
                                                 <p class="fw-bold m-0">02.08.2023</p>
                                                 <h2 class="fw-bold my-3">J-10 avant la semaine de la forme 2023 !</h2>
-                                                <a href="#" class="fw-bold">Lire la suite <img src="../img/arrowright.png" class="ms-2"></a>
+                                                <a href="#" class="fw-bold">Lire la suite <img src="./img/arrowright.png" class="ms-2"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -403,7 +403,7 @@
                                 <div class="d-flex justify-content-md-start justify-content-center mt-4">
                                     <a href="#" class="btn col-xl-3 col-sm-6 col-10 px-5 py-3 text-white d-flex align-items-center justify-content-around" style="background-color: #0099DC;">
                                         <span class="fw-bold">Voir toutes les actualités</span>
-                                        <img src="../img/arrowright.png">
+                                        <img src="./img/arrowright.png">
                                     </a>
                                 </div>
                             </div>
@@ -411,7 +411,7 @@
                     </div>
                     <div id="activites" class="position-relative d-flex flex-column justify-content-around align-items-center text-center col-12">
                         <div class="position-relative d-flex justify-content-center align-items-center text-center w-100 py-5">
-                            <img src="../img/AdobeStock_159472423 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
+                            <img src="./img/AdobeStock_159472423 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
                             <div class="overlay position-absolute w-100 h-100"></div>
                             <div id="overlaytext" class="text-white container-fluid d-flex justify-content-end position-relative py-5 px-0">
                                 <div class="col-12 col-lg-11 container-fluid">
@@ -423,7 +423,7 @@
                                         <div class="col-12 col-lg-4 d-flex align-items-center justify-content-center mt-4 mt-lg-0">
                                             <button class="btn bg-white shadow p-4 position-relative shadow mt-3">
                                                 <div class="circle-container d-flex justify-content-center align-items-center">
-                                                    <img src="../img/Group 44.png" class="">
+                                                    <img src="./img/Group 44.png" class="">
                                                 </div>
                                                 <div class="col text-center mt-3">
                                                     <h1 class="mb-1">FAITES LE TEST !</h1>
@@ -434,28 +434,28 @@
                                     </div>
                                     <div class="d-flex overflow-auto p-3 justify-content-start my-4 container-fluid">
                                         <a href="activites.html" class="card shadow col-xl-3 col-sm-5 col-12 d-flex justify-content-center align-items-center mx-4 mb-3" id="cross">
-                                            <img src="../img/AdobeStock_159472423 1.jpg" class="card-img">
+                                            <img src="./img/AdobeStock_159472423 1.jpg" class="card-img">
                                             <div class="card-content flex-column d-flex justify-content-center align-items-center">
                                                 <h1 class="display-4 fw-bold text-white text-center">Yoga</h1>
                                                 <button class="btn border-white px-5 py-2 text-white mt-3">en savoir +</button>
                                             </div>
                                         </a>
                                         <a href="activites.html" class="card shadow col-xl-3 col-sm-5 col-12 d-flex justify-content-center align-items-center mx-4 mb-3" id="bien-être">
-                                            <img src="../img/AdobeStock_593379585 1.jpg" class="card-img">
+                                            <img src="./img/AdobeStock_593379585 1.jpg" class="card-img">
                                             <div class="card-content flex-column d-flex justify-content-center align-items-center">
                                                 <h1 class="display-4 fw-bold text-white text-center">Aïkido</h1>
                                                 <button class="btn border-white px-5 py-2 text-white mt-3">en savoir +</button>
                                             </div>
                                         </a>
                                         <a href="activites.html" class="card shadow col-xl-3 col-sm-5 col-12 d-flex justify-content-center align-items-center mx-4 mb-3" id="bien-être-2">
-                                            <img src="../img/AdobeStock_229939264 1.jpg" class="card-img">
+                                            <img src="./img/AdobeStock_229939264 1.jpg" class="card-img">
                                             <div class="card-content flex-column d-flex justify-content-center align-items-center">
                                                 <h1 class="display-4 fw-bold text-white text-center">Basketball</h1>
                                                 <button class="btn border-white px-5 py-2 text-white mt-3">en savoir +</button>
                                             </div>
                                         </a>
                                         <a href="activites.html" class="card shadow col-xl-3 col-sm-5 col-12 d-flex justify-content-center align-items-center mx-4 mb-3" id="bien-être-2">
-                                            <img src="../img/AdobeStock_229939264 1.jpg" class="card-img">
+                                            <img src="./img/AdobeStock_229939264 1.jpg" class="card-img">
                                             <div class="card-content flex-column d-flex justify-content-center align-items-center">
                                                 <h1 class="display-4 fw-bold text-white text-center">Basketball</h1>
                                                 <button class="btn border-white px-5 py-2 text-white mt-3">en savoir +</button>
@@ -465,11 +465,11 @@
                                     <div class="d-flex justify-content-between col-12 col-xxl-5 flex-wrap">
                                         <a class="btn px-5 py-3 text-white mb-3 mb-lg-0" style="background-color: #0099DC;">
                                             <span class="fw-bold me-3">Trouver un club</span>
-                                            <img src="../img/arrowright.png">
+                                            <img src="./img/arrowright.png">
                                         </a>
                                         <a class="btn px-5 py-3 text-white" style="background-color: #0A66B0;">
                                             <span class="fw-bold me-3">Découvrir toutes nos activités</span>
-                                            <img src="../img/arrowright.png">
+                                            <img src="./img/arrowright.png">
                                         </a>
                                     </div>
                                 </div>
@@ -478,7 +478,7 @@
                     </div>
                     <div class="container my-5 py-5" id="imgoverlay">
                         <div class="background-container d-flex justify-content-center">
-                            <img src="../img/2014 2.jpg" class="img-fluid w-100 h-100 position-absolute">
+                            <img src="./img/2014 2.jpg" class="img-fluid w-100 h-100 position-absolute">
                             <div class="background-filter"></div>
                             <div class="content col-lg-9 py-5 d-flex justify-content-lg-around justify-content-center align-items-center flex-wrap">
                                 <div class="col-lg-5 d-flex flex-column align-items-sm-start align-items-center justify-content-around py-5">
@@ -502,7 +502,7 @@
                             <div class="col-lg col-12 col-sm-4 d-flex flex-sm-column justify-content-around align-items-center mb-4 mb-lg-0 container-fluid">
                                 <div class="p-1 h-sm-50 col-sm-12 col-6">
                                     <div class="card justify-content-center d-flex h-100">
-                                        <img src="../img/AdobeStock_624733176 1.jpg" class="img-fluid">
+                                        <img src="./img/AdobeStock_624733176 1.jpg" class="img-fluid">
                                         <div class="card-content flex-column d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                             <h4 class="fw-bold text-white text-center">Métiers de la formation</h4>
                                             <button class="btn border-white col-md-6 py-2 text-white mt-3">en savoir +</button>
@@ -511,7 +511,7 @@
                                 </div>
                                 <div class="p-1 h-sm-50 col-sm-12 col-6">
                                     <div class="card justify-content-center d-flex h-100">
-                                        <img src="../img/AdobeStock_602932904 1.jpg" class="img-fluid">
+                                        <img src="./img/AdobeStock_602932904 1.jpg" class="img-fluid">
                                         <div class="card-content flex-column d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                             <h4 class="fw-bold text-white text-center">Métiers du développement</h4>
                                             <button class="btn border-white col-md-6 py-2 text-white mt-3">en savoir +</button>
@@ -521,7 +521,7 @@
                             </div>
                             <div class="col-12 col-lg-5 col-sm-8 mb-4 mb-lg-0 container-fluid px-sm-5">
                                 <div class="card justify-content-center d-flex h-100 " style="background-color: black;">
-                                    <img src="../img/AdobeStock_232978499 1.jpg" class="img-fluid">
+                                    <img src="./img/AdobeStock_232978499 1.jpg" class="img-fluid">
                                     <div class="card-content flex-column d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                         <h1 class="display-4 fw-bold text-white text-center">Animateur de loisir sportif</h1>
                                         <button class="btn border-white col-sm-5 py-2 text-white mt-3">en savoir +</button>
@@ -529,37 +529,37 @@
                                 </div>
                             </div>
                             <div class="col-12 col-md-10 col-lg-4 container-fluid">
-                                <img src="../img/icon_sports_pour_tous_rouge.png">
+                                <img src="./img/icon_sports_pour_tous_rouge.png">
                                 <div class="display-3 fw-bold col-10" style="color: #E3004F">Se former aux métiers du sport</div>
                                 <h6 class="my-4">En tant qu’Organisme de Formation, la Fédération Française Sports pour Tous propose une offre de formations diplômantes, permettant de devenir animateur ou éducateur sportif et de parfaire ses compétences.</h6>
                                 <a class="btn px-5 py-3 text-white col-11 my-2" style="background-color: #0A66B0;">
                                     <span class="fw-bold me-3">Découvrir toutes nos formations</span>
-                                    <img src="../img/arrowright.png">
+                                    <img src="./img/arrowright.png">
                                 </a>
                                 <a class="btn px-5 py-3 text-white mb-lg-0 col-11 my-2" style="background-color: #0099DC;">
                                     <span class="fw-bold me-3">Trouver une formation</span>
-                                    <img src="../img/arrowright.png">
+                                    <img src="./img/arrowright.png">
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div id="affiliation" class="position-relative d-flex flex-column justify-content-around align-items-center col-12">
                         <div class="position-relative d-flex justify-content-center align-items-center w-100 py-5">
-                            <img src="../img/AdobeStock_613780163 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
+                            <img src="./img/AdobeStock_613780163 1.jpg" class="img-fluid w-100 h-100 position-absolute" id="bg">
                             <div class="overlay position-absolute w-100 h-100"></div>
                             <div id="overlaytext" class="text-white container-fluid d-flex justify-content-center position-relative py-5 px-0">
                                 <div class="col-12 col-xxl-9 d-flex justify-content-between flex-wrap container-fluid p-sm-5">
                                     <div class="col-12 col-md-6 d-flex mb-4 mb-lg-0">
                                         <div class="w-100 d-flex">
-                                            <img src="../img/AdobeStock_613780163 1.jpg" class="img-fluid w-100 h-100 object-fit-cover radius-020">
+                                            <img src="./img/AdobeStock_613780163 1.jpg" class="img-fluid w-100 h-100 object-fit-cover radius-020">
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-5 d-flex flex-column align-items-start">
-                                        <img src="../img/icon_sports_pour_tous.png" class="img-fluid mb-3">
+                                        <img src="./img/icon_sports_pour_tous.png" class="img-fluid mb-3">
                                         <p class="display-4 fw-bold m-0 col-xl-10 text-white">Vous êtes une association ?</p>
                                         <h6 class="my-4 col-xl-10">Vous êtes une association ? Rejoignez un réseau mobilisé et reconnu dans les domaines du sport-loisir, du sport-santé bien-être et de l’intégration sociale par le sport.</h6>
-                                        <a href="../FAQaffiliation.php" class="btn py-3 my-2 text-white col-xl-7 fw-bold text-center" style="background-color: #0099DC;">Nous rejoindre</a>
-                                        <a href="../FAQaffiliation.php" class="btn py-3 my-2 text-white col-xl-7 fw-bold bg-transparent text-center" style="border: 2px solid #FFF;">Les avantages de l'affiliation</a>
+                                        <a href="./FAQaffiliation.php" class="btn py-3 my-2 text-white col-xl-7 fw-bold text-center" style="background-color: #0099DC;">Nous rejoindre</a>
+                                        <a href="./FAQaffiliation.php" class="btn py-3 my-2 text-white col-xl-7 fw-bold bg-transparent text-center" style="border: 2px solid #FFF;">Les avantages de l'affiliation</a>
                                     </div>
                                 </div>
                             </div>
@@ -571,27 +571,27 @@
                             <div class="row justify-content-center col-11 flex-wrap">
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 p-2">
                                     <div class="card h-100 p-4 d-flex align-items-center justify-content-center border-0">
-                                        <img src="../img/Ministere_charge_des_Sports_1.png" class="card-img-top img-fluid">
+                                        <img src="./img/Ministere_charge_des_Sports_1.png" class="card-img-top img-fluid">
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 p-2">
                                     <div class="card h-100 p-4 d-flex align-items-center justify-content-center">
-                                        <img src="../img/agence_nationale_du_sport.png" class="card-img-top img-fluid">
+                                        <img src="./img/agence_nationale_du_sport.png" class="card-img-top img-fluid">
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 p-2">
                                     <div class="card h-100 p-4 d-flex align-items-center justify-content-center">
-                                        <img src="../img/Audika.png" class="card-img-top img-fluid">
+                                        <img src="./img/Audika.png" class="card-img-top img-fluid">
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 p-2">
                                     <div class="card h-100 p-4 d-flex align-items-center justify-content-center">
-                                        <img src="../img/Goove.png" class="card-img-top img-fluid">
+                                        <img src="./img/Goove.png" class="card-img-top img-fluid">
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-3 col-sm-4 col-6 p-2">
                                     <div class="card h-100 p-4 d-flex align-items-center justify-content-center">
-                                        <img src="../img/VVF.png" class="card-img-top img-fluid">
+                                        <img src="./img/VVF.png" class="card-img-top img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -606,6 +606,6 @@
                 <!-- footer -->             
                 <div id="footer" class="d-flex justify-content-center col-md-12 my-md-0">
                     <div class="row d-flex justify-content-around align-items-center col-md-12 container-fluid p-0">
-                        <img src="../img/Ellipse 19.png" alt="" id="ellipse">
+                        <img src="./img/Ellipse 19.png" alt="" id="ellipse">
 
 <?php include 'footer.php'; ?>
