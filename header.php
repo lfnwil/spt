@@ -29,7 +29,7 @@
                         </div>
                     </div>
                     <div class="d-lg-inline-none collapse d-lg-block ms-lg-auto mx-5">
-                        <div class="btn-group d-flex flex-wrap align-items-center">
+                            <div class="btn-group d-flex flex-wrap align-items-start">
                             <div class="btn-group dropstart d-flex align-items-center">
                                 <button type="button" class="btn bg-transparent border-0 text-white mx-2" data-bs-toggle="dropdown">
                                     <img src="./img/loupe.png">

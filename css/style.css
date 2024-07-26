@@ -346,6 +346,20 @@ ul img {
 #index #bandeau .overlay-text {
     z-index: 2;
 }
+#index #bandeau #boutons {
+    z-index: 2;
+    opacity: 1;
+    bottom: 0;
+    left: 0;
+}
+#index #bandeau #boutons .custom-img {
+    width: auto;
+    height: 20px;
+    opacity: 1;
+    max-height: 50px; /* Define a max width according to your needs */
+    max-width: 50px;
+}
+
 #index #bandeau #infos {
     background: rgba(14, 48, 131, 0.29);
     backdrop-filter: blur(17.5px);

@@ -5,12 +5,12 @@
                                         <img src="./img/logo.png" id="footerlogo">
                                     </div>
                                     <div class="d-flex flex-column col-lg-4 text-center justify-content-center align-items-center py-3">
-                                        <ul class="list-unstyled d-flex flex-column align-items-start fw-700">
-                                            <li class="my-2"><a href="./#" class="text-white">FAQ</a></li>
-                                            <li class="my-2"><a href="./#" class="text-white">Espace Presse</a></li>
-                                            <li class="my-2"><a href="./#" class="text-white">Contacts</a></li>
-                                            <li class="my-2"><a href="./#" class="text-white">Coordonnées Comités</a></li>
-                                            <li class="my-2"><a href="./#" class="text-white">Signalement</a></li>
+                                        <ul class="list-unstyled d-flex flex-column align-items-start">
+                                            <li class="my-2"><a href="./#" class="text-white"><h5 class="fw-700">FAQ</h5></a></li>
+                                            <li class="my-2"><a href="./#" class="text-white"><h5 class="fw-700">Espace Presse</h5></a></li>
+                                            <li class="my-2"><a href="./#" class="text-white"><h5 class="fw-700">Contacts</h5></a></li>
+                                            <li class="my-2"><a href="./#" class="text-white"><h5 class="fw-700">Coordonnées Comités</h5></a></li>
+                                            <li class="my-2"><a href="./#" class="text-white"><h5 class="fw-700">Signalement</h5></a></li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-4 py-3 d-flex justify-content-center">
